@@ -9,7 +9,7 @@
         "menus": [
           {
             "id": "learn-japanesen5",
-            "title": "Introduction to Japanese - N5",
+            "title": "Beginner Japanese | JLPT N5",
             "slug": "japanesen5",
             "listed": true,
             "order": 0,
@@ -185,7 +185,7 @@
           },
           {
             "id": "learn-japanesen4",
-            "title": "Introduction to Japanese - N4",
+            "title": "Elementary Japanese | JLPT N4",
             "slug": "japanesen4",
             "listed": true,
             "order": 1,
