@@ -1,0 +1,8 @@
+{
+  "id": "Git",
+  "label": "Introduction to Git",
+  "description": "A practical introduction to Git concepts, commands, workflows, and collaboration.",
+  "icon": "git-branch",
+  "pillLabel": "Development Tools",
+  "sidebarUrl": "/content/Git_Sidebar.json"
+}

@@ -1,0 +1,47 @@
+{
+  "home": {
+    "label": "Overview",
+    "path": "/"
+  },
+  "categories": [
+    {
+      "title": "Core Concepts",
+      "icon": "book",
+      "topics": {
+        "Abstraction": "/core-concepts/abstraction",
+        "Classes": "/core-concepts/classes",
+        "Encapsulation": "/core-concepts/encapsulation",
+        "Inheritance": "/core-concepts/inheritance",
+        "Interface": "/core-concepts/interface",
+        "Objects": "/core-concepts/objects",
+        "Polymorphism": "/core-concepts/polymorphism"
+      }
+    },
+    {
+      "title": "Design Concepts",
+      "icon": "layers",
+      "topics": {
+        "Behavioral Patterns": "/design-concepts/behavioral-patterns",
+        "Creational Patterns": "/design-concepts/creational-patterns",
+        "Design Patterns": "/design-concepts/design-patterns",
+        "God Object": "/design-concepts/god-object",
+        "Law of Demeter": "/design-concepts/law-of-demeter",
+        "SOLID Principles": "/design-concepts/solid-principles",
+        "Structural Patterns": "/design-concepts/structural-patterns"
+      }
+    },
+    {
+      "title": "Other Concepts",
+      "icon": "layers",
+      "topics": {
+        "Access Specifiers": "/other-concepts/access-specifiers",
+        "Cohesion and Coupling": "/other-concepts/cohesion-and-coupling",
+        "Constructors and Destructors": "/other-concepts/constructors-and-destructors",
+        "Message Passing": "/other-concepts/message-passing",
+        "Method Overloading and Overriding": "/other-concepts/method-overloading-and-overriding",
+        "Shallow and Deep Copy": "/other-concepts/shallow-and-deep-copy",
+        "Static and Non Static Members": "/other-concepts/static-and-non-static-members"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+﻿<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/x-icon" href="%BASE_URL%favicon-light.ico" media="(prefers-color-scheme: light)" />
+    <link rel="icon" type="image/x-icon" href="%BASE_URL%favicon-dark.ico" media="(prefers-color-scheme: dark)" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Learning notes and build documentation." />
+    <title>Zero</title>
+    <script>
+      (() => {
+        try {
+          const storedTheme = localStorage.getItem("zero-ui-theme")
+          const theme = storedTheme === "light" || storedTheme === "dark"
+            ? storedTheme
+            : (window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light")
+          document.documentElement.classList.add(theme)
+          document.documentElement.style.backgroundColor = theme === "dark" ? "#09090b" : "#ffffff"
+        } catch {
+          // React will apply the theme after startup if storage is unavailable.
+        }
+      })()
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
+
+

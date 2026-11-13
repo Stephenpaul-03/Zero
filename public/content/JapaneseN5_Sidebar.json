@@ -1,0 +1,49 @@
+{
+  "home": {
+    "label": "Overview",
+    "path": "/"
+  },
+  "categories": [
+    {
+      "title": "Start Here",
+      "topics": {
+        "N5 Course Guide": "/start-here/n5-course-guide",
+        "N5 Study Plan": "/start-here/n5-study-plan"
+      }
+    },
+    {
+      "title": "Writing",
+      "topics": {
+        "Japanese Writing Systems": "/writing/japanese-writing-systems",
+        "Hiragana": "/writing/hiragana",
+        "Katakana": "/writing/katakana"
+      }
+    },
+    {
+      "title": "Grammar",
+      "topics": {
+        "N5 Sentence Basics": "/grammar/n5-sentence-basics",
+        "N5 Particles": "/grammar/n5-particles",
+        "N5 Verb and Adjective Forms": "/grammar/n5-verb-and-adjective-forms",
+        "Particles Reference": "/grammar/particles-reference"
+      }
+    },
+    {
+      "title": "Vocabulary",
+      "topics": {
+        "Nouns Reference": "/vocabulary/nouns-reference",
+        "Verbs Reference": "/vocabulary/verbs-reference",
+        "Katakana Words Reference": "/vocabulary/katakana-words-reference",
+        "i-Adjectives Reference": "/vocabulary/i-adjectives-reference",
+        "na-Adjectives Reference": "/vocabulary/na-adjectives-reference",
+        "Adverbs Reference": "/vocabulary/adverbs-reference"
+      }
+    },
+    {
+      "title": "Kanji",
+      "topics": {
+        "Kanji Reference": "/kanji/kanji-reference"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "home": {
+    "label": "Overview",
+    "path": "/"
+  },
+  "categories": [
+    {
+      "title": "Searching",
+      "icon": "book",
+      "topics": {
+        "Binary Search": "/searching/binary-search",
+        "Exponential Search": "/searching/exponential-search",
+        "Interpolation Search": "/searching/interpolation-search",
+        "Jump Search": "/searching/jump-search",
+        "Linear Search": "/searching/linear-search",
+        "Ternary Search": "/searching/ternary-search"
+      }
+    },
+    {
+      "title": "Sorting",
+      "icon": "sliders",
+      "topics": {
+        "Bubble Sort": "/sorting/bubble-sort",
+        "Counting Sort": "/sorting/counting-sort",
+        "Heap Sort": "/sorting/heap-sort",
+        "Insertion Sort": "/sorting/insertion-sort",
+        "Merge Sort": "/sorting/merge-sort",
+        "Quick Sort": "/sorting/quick-sort",
+        "Selection Sort": "/sorting/selection-sort"
+      }
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "home": {
+    "label": "Overview",
+    "path": "/"
+  },
+  "categories": [
+    {
+      "title": "Fundamentals",
+      "icon": "book",
+      "topics": {
+        "Clauses": "/fundamentals/clauses",
+        "Commands": "/fundamentals/commands",
+        "Constraints": "/fundamentals/constraints",
+        "Data Types": "/fundamentals/data-types",
+        "Filtering": "/fundamentals/filtering",
+        "Grouping": "/fundamentals/grouping",
+        "Indexes": "/fundamentals/indexes",
+        "Joins": "/fundamentals/joins",
+        "Operators": "/fundamentals/operators",
+        "Query Execution Order": "/fundamentals/query-execution-order",
+        "Ranking": "/fundamentals/ranking",
+        "Sorting": "/fundamentals/sorting",
+        "Stored Procedures": "/fundamentals/stored-procedures",
+        "Subqueries": "/fundamentals/subqueries",
+        "Triggers": "/fundamentals/triggers",
+        "Views": "/fundamentals/views"
+      }
+    },
+    {
+      "title": "Functions",
+      "icon": "function-square",
+      "topics": {
+        "Aggregate Functions": "/functions/aggregate-functions",
+        "Date & Time Functions": "/functions/date-and-time-functions",
+        "Logical & Conditional": "/functions/logical-conditional",
+        "Numeric Functions": "/functions/numeric-functions",
+        "String Functions": "/functions/string-functions",
+        "Type Conversion Functions": "/functions/type-conversion-functions",
+        "Window Functions": "/functions/window-functions"
+      }
+    },
+    {
+      "title": "Subordinate Concepts",
+      "icon": "layers",
+      "topics": {
+        "Common Table Expression (CTE)": "/subordinate-concepts/common-table-expression",
+        "Denomalization": "/subordinate-concepts/denomalization",
+        "Error Handling": "/subordinate-concepts/error-handling",
+        "Execution Plans": "/subordinate-concepts/execution-plans",
+        "File Handling": "/subordinate-concepts/file-handling",
+        "MERGE Statement": "/subordinate-concepts/merge-statement",
+        "Normalization": "/subordinate-concepts/normalization",
+        "Pivot and Unpivot": "/subordinate-concepts/pivot-and-unpivot",
+        "Query Optimization": "/subordinate-concepts/query-optimization",
+        "Recursive CTE": "/subordinate-concepts/recursive-cte",
+        "Temporary Tables Table Variables": "/subordinate-concepts/temporary-tables-table-variables",
+        "Transactions": "/subordinate-concepts/transactions"
+      }
+    },
+    {
+      "title": "Theory",
+      "icon": "layers",
+      "topics": {
+        "Acid": "/theory/acid",
+        "Base": "/theory/base",
+        "Cap": "/theory/cap",
+        "Relational vs. Non-Relational": "/theory/relational-vs-non-relational",
+        "Schema vs. No-Schema": "/theory/schema-vs-no-schema"
+      }
+    }
+  ]
+}

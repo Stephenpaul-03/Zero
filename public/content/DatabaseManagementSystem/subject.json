@@ -1,0 +1,8 @@
+{
+  "id": "DatabaseManagementSystem",
+  "label": "Database Management Systems",
+  "description": "Database design, transactions, distributed systems, warehousing, and NoSQL.",
+  "icon": "layers",
+  "pillLabel": "Fundamentals",
+  "sidebarUrl": "/content/Database_Management_System_Sidebar.json"
+}

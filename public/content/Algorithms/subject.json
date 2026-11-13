@@ -1,0 +1,8 @@
+{
+  "id": "Algorithms",
+  "label": "Algorithms",
+  "description": "Core searching and sorting algorithms with their trade-offs and use cases.",
+  "icon": "cpu",
+  "pillLabel": "Fundamentals",
+  "sidebarUrl": "/content/Algorithms_Sidebar.json"
+}

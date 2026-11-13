@@ -1,0 +1,38 @@
+{
+  "home": {
+    "label": "Overview",
+    "path": "/"
+  },
+  "categories": [
+    {
+      "title": "Fundamentals",
+      "icon": "book",
+      "topics": {
+        "Built-in Functions": "/fundamentals/built-in-functions",
+        "Comments": "/fundamentals/comments",
+        "Conditional Statements": "/fundamentals/conditional-statements",
+        "Data Types": "/fundamentals/data-types",
+        "Error Handling": "/fundamentals/error-handling",
+        "File Handling": "/fundamentals/file-handling",
+        "Functions": "/fundamentals/functions",
+        "Input/Output": "/fundamentals/input-output",
+        "Keywords": "/fundamentals/keywords",
+        "Loops": "/fundamentals/loops",
+        "Operators": "/fundamentals/operators",
+        "Type Casting": "/fundamentals/type-casting",
+        "Variables": "/fundamentals/variables"
+      }
+    },
+    {
+      "title": "Data Structures",
+      "icon": "layers",
+      "topics": {
+        "Dictionaries": "/data-structures/dictionaries",
+        "List": "/data-structures/list",
+        "Set": "/data-structures/set",
+        "String": "/data-structures/string",
+        "Tuples": "/data-structures/tuples"
+      }
+    }
+  ]
+}

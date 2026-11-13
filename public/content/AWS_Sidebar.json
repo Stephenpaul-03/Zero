@@ -1,0 +1,85 @@
+{
+  "home": {
+    "label": "Overview",
+    "path": "/"
+  },
+  "categories": [
+    {
+      "title": "Getting Started",
+      "icon": "rocket",
+      "topics": {
+        "Basics of Cloud": "/getting-started/basics-of-cloud",
+        "AWS Working Model": "/getting-started/aws-working-model",
+        "AWS Services Overview": "/getting-started/aws-services-overview",
+        "AWS Global Infrastructure": "/getting-started/aws-global-infrastructure"
+      }
+    },
+    {
+      "title": "Core Concepts",
+      "icon": "layers",
+      "topics": {
+        "AWS Cloud Adoption Framework": "/core-concepts/aws-cloud-adoption-framework",
+        "AWS Migration Strategies": "/core-concepts/aws-migration-strategies",
+        "AWS Shared Responsibility Model": "/core-concepts/aws-shared-responsibility-model",
+        "AWS Well-Architected Framework": "/core-concepts/aws-well-architected-framework"
+      }
+    },
+    {
+      "title": "AWS Services",
+      "icon": "cloud",
+      "topics": {
+        "Aurora": "/aws-services/aurora",
+        "CloudFront": "/aws-services/cloudfront",
+        "Cognito": "/aws-services/cognito",
+        "AWS Direct Connect": "/aws-services/direct-connect",
+        "DynamoDB": "/aws-services/dynamodb",
+        "Elastic Block Store (EBS)": "/aws-services/ebs",
+        "Elastic Compute Cloud (EC2)": "/aws-services/ec2",
+        "Elastic Container Service (ECS)": "/aws-services/ecs-elastic-container-service",
+        "Elastic File System (EFS)": "/aws-services/efs",
+        "Elastic Kubernetes Service (EKS)": "/aws-services/eks-elastic-kubernetes-service",
+        "Elastic Load Balancing (ELB)": "/aws-services/elastic-load-balancer",
+        "ElastiCache": "/aws-services/elasticache",
+        "AWS Fargate": "/aws-services/fargate",
+        "FSx": "/aws-services/fsx",
+        "AWS Global Accelerator": "/aws-services/global-accelerator",
+        "AWS Identity and Access Management (IAM)": "/aws-services/iam-identity-and-access-management",
+        "AWS Lambda": "/aws-services/lambda",
+        "Lightsail": "/aws-services/lightsail",
+        "MFA": "/aws-services/mfa",
+        "Neptune": "/aws-services/neptune",
+        "Relational Database Service (RDS)": "/aws-services/rds",
+        "Redshift": "/aws-services/redshift",
+        "Route 53": "/aws-services/route-53",
+        "Simple Storage Service (S3)": "/aws-services/s3",
+        "Virtual Private Cloud (VPC)": "/aws-services/vpc"
+      }
+    },
+    {
+      "title": "Security & Operations",
+      "icon": "shield",
+      "topics": {
+        "AWS Backup": "/security-operations/aws-backup",
+        "AWS Budgets": "/security-operations/aws-budgets",
+        "AWS Config": "/security-operations/aws-config",
+        "AWS Control Tower": "/security-operations/aws-control-tower",
+        "AWS Cost Explorer": "/security-operations/aws-cost-explorer",
+        "AWS GuardDuty": "/security-operations/aws-guardduty",
+        "AWS Inspector": "/security-operations/aws-inspector",
+        "AWS Key Management Service (KMS)": "/security-operations/aws-kms-key-management-service",
+        "AWS Macie": "/security-operations/aws-macie",
+        "AWS Organizations": "/security-operations/aws-organization",
+        "AWS Pricing Calculator": "/security-operations/aws-pricing-calculator",
+        "AWS Secrets Manager": "/security-operations/aws-secrets-manager",
+        "AWS Security Hub": "/security-operations/aws-securtiy-hub",
+        "AWS Shield": "/security-operations/aws-shield",
+        "AWS Support Plan": "/security-operations/aws-support-plan",
+        "AWS Trusted Advisor": "/security-operations/aws-trusted-advisor",
+        "AWS Web Application Firewall (WAF)": "/security-operations/aws-waf-web-application-firewall",
+        "AWS CloudTrail": "/security-operations/cloudtrail",
+        "CloudWatch": "/security-operations/cloudwatch",
+        "Service Catalog": "/security-operations/service-catalog"
+      }
+    }
+  ]
+}

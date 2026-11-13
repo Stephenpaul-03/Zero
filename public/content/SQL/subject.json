@@ -1,0 +1,8 @@
+{
+  "id": "SQL",
+  "label": "SQL",
+  "description": "SQL querying, relational design, functions, optimization, transactions, and database theory.",
+  "icon": "layers",
+  "pillLabel": "Programming Languages",
+  "sidebarUrl": "/content/SQL_Sidebar.json"
+}

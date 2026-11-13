@@ -1,0 +1,98 @@
+{
+  "home": {
+    "label": "Overview",
+    "path": "/"
+  },
+  "categories": [
+    {
+      "title": "Introduction",
+      "icon": "book",
+      "topics": {
+        "Data Abstraction": "/introduction/data-abstraction",
+        "Data Independence": "/introduction/data-independence",
+        "Database Architecture": "/introduction/database-architecture",
+        "Database Components": "/introduction/database-components",
+        "Database Languages": "/introduction/database-languages",
+        "Database Types": "/introduction/database-types",
+        "Database Users": "/introduction/database-users",
+        "ER Diagrams": "/introduction/er-diagrams",
+        "Introduction": "/introduction/introduction",
+        "Relational Algebra": "/introduction/relational-algebra",
+        "Relational Models": "/introduction/relational-models"
+      }
+    },
+    {
+      "title": "Design Concepts",
+      "icon": "layers",
+      "topics": {
+        "Constraints": "/design-concepts/constraints",
+        "Decomposition": "/design-concepts/decomposition",
+        "Denormalization": "/design-concepts/denormalization",
+        "Dependencies": "/design-concepts/dependencies",
+        "Hashing": "/design-concepts/hashing",
+        "Indexing": "/design-concepts/indexing",
+        "Joins": "/design-concepts/joins",
+        "Keys": "/design-concepts/keys",
+        "Normalization": "/design-concepts/normalization",
+        "Stored Procedures": "/design-concepts/stored-procedures",
+        "Triggers": "/design-concepts/triggers",
+        "Views": "/design-concepts/views"
+      }
+    },
+    {
+      "title": "Advanced",
+      "icon": "layers",
+      "topics": {
+        "Access Control": "/advanced/access-control",
+        "Auditing & Compliance": "/advanced/auditing-compliance",
+        "Buffer Management": "/advanced/buffer-management",
+        "Concurrency Control": "/advanced/concurrency-control",
+        "Database Storage File Structure": "/advanced/database-storage-file-structure",
+        "Deadlocks": "/advanced/deadlocks",
+        "Encryption at Rest Transit": "/advanced/encryption-at-rest-transit",
+        "Execution Plans": "/advanced/execution-plans",
+        "Heuristics": "/advanced/heuristics",
+        "Join Ordering": "/advanced/join-ordering",
+        "Materialization": "/advanced/materialization",
+        "Pipelining": "/advanced/pipelining",
+        "Protocols": "/advanced/protocols",
+        "Recoverability": "/advanced/recoverability",
+        "Scheduling": "/advanced/scheduling",
+        "Starvation": "/advanced/starvation"
+      }
+    },
+    {
+      "title": "DDBMS",
+      "icon": "layers",
+      "topics": {
+        "2PC & 3PC": "/ddbms/2pc-3pc",
+        "Consistency Models": "/ddbms/consistency-models",
+        "Replication": "/ddbms/replication",
+        "Sharding": "/ddbms/sharding"
+      }
+    },
+    {
+      "title": "DataWarehousing",
+      "icon": "layers",
+      "topics": {
+        "Architecture": "/datawarehousing/architecture",
+        "Data Modelling": "/datawarehousing/data-modelling",
+        "ETL & ELT": "/datawarehousing/etl-elt",
+        "OLAP & OLTP": "/datawarehousing/olap-oltp"
+      }
+    },
+    {
+      "title": "NoSQL",
+      "icon": "layers",
+      "topics": {
+        "ACID": "/nosql/acid",
+        "BASE": "/nosql/base",
+        "CAP": "/nosql/cap",
+        "Columnar Stores": "/nosql/columnar-stores",
+        "Document Stores": "/nosql/document-stores",
+        "Key-Value Stores": "/nosql/key-value-stores",
+        "Schema-on-Read/Write": "/nosql/schema-on-read-write"
+      }
+    }
+  ]
+}

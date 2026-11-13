@@ -1,0 +1,8 @@
+{
+  "id": "Python",
+  "label": "Python",
+  "description": "Python fundamentals, error handling, functions, and core data structures.",
+  "icon": "cpu",
+  "pillLabel": "Programming Languages",
+  "sidebarUrl": "/content/Python_Sidebar.json"
+}

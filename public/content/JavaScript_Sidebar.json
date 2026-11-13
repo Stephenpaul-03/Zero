@@ -1,0 +1,42 @@
+{
+  "home": {
+    "label": "Overview",
+    "path": "/"
+  },
+  "categories": [
+    {
+      "title": "Introduction",
+      "icon": "book",
+      "topics": {
+        "JavaScript Overview": "/introduction/javascript"
+      }
+    },
+    {
+      "title": "Fundamentals",
+      "icon": "book",
+      "topics": {
+        "Comments": "/fundamentals/comments",
+        "Control Flow": "/fundamentals/control-flow",
+        "Data Types": "/fundamentals/data-types",
+        "Error Handling": "/fundamentals/error-handling",
+        "Functions": "/fundamentals/functions",
+        "Operators": "/fundamentals/operators",
+        "Scope": "/fundamentals/scope",
+        "Variables": "/fundamentals/variables"
+      }
+    },
+    {
+      "title": "Subordinate Concepts",
+      "icon": "layers",
+      "topics": {
+        "Callbacks": "/subordinate-concepts/callbacks",
+        "Closures": "/subordinate-concepts/closures",
+        "Events": "/subordinate-concepts/events",
+        "Hoisting": "/subordinate-concepts/hoisting",
+        "Modules": "/subordinate-concepts/modules",
+        "Set Variants": "/subordinate-concepts/set-variants",
+        "Storage Types": "/subordinate-concepts/storage-types"
+      }
+    }
+  ]
+}

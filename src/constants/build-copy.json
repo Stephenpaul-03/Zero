@@ -1,0 +1,93 @@
+{
+  "welcome": {
+    "eyebrow": "Workbench notes",
+    "title": "Hi, I’m",
+    "description": "I build hardware projects and use Crucible to document what I test, break, learn, and rebuild.",
+    "intro": "It’s where I keep my schematics, measurements, code, decisions, and the dead ends along the way.",
+    "points": [
+      {
+        "title": "What I’m building",
+        "description": "I log the goals, parts, wiring, firmware, measurements, and results behind each build.",
+        "icon": "book"
+      },
+      {
+        "title": "How I got there",
+        "description": "I keep experiments, references, and design decisions close to the work that shaped them.",
+        "icon": "compass"
+      },
+      {
+        "title": "The honest version",
+        "description": "I record what worked, what failed, and what I want to try next—not just the polished result.",
+        "icon": "sparkles"
+      }
+    ],
+    "supportLabel": "Support my work",
+    "startLabel": "Browse my projects"
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Say hello",
+    "description": "Want to talk hardware, compare notes, or ask about one of my projects? These are the best places to reach me.",
+    "note": "Email is the best way to get in touch. You can also find me on LinkedIn or GitHub.",
+    "emailAction": "Send an email",
+    "githubAction": "Find me on GitHub",
+    "linkedinAction": "Connect on LinkedIn",
+    "portfolioAction": "Visit my portfolio"
+  },
+  "search": {
+    "title": "Search my projects",
+    "description": "Find a build note, experiment, reference, or decision in my project archive.",
+    "placeholder": "Search my project entries…",
+    "recentHeading": "Recently viewed",
+    "emptyRecent": "Nothing viewed recently. Start typing to search my notes.",
+    "noResults": "I couldn’t find a matching entry."
+  },
+  "support": {
+    "title": "Support my work",
+    "description": "I build and document Crucible independently. A small contribution helps me keep experimenting, making, and writing about the results.",
+    "primaryAction": "Buy me a coffee",
+    "qrAction": "Scan QR code",
+    "copyAction": "Copy my support link",
+    "copiedLabel": "Link copied",
+    "contactHeading": "Find me online",
+    "projectsHeading": "More things I’ve made",
+    "projectsDescription": "I also publish experiments, references, and small tools elsewhere.",
+    "projectsAction": "See my other projects",
+    "links": {
+      "github": "GitHub",
+      "linkedin": "LinkedIn",
+      "portfolio": "Portfolio"
+    },
+    "qrTitle": "Support my work",
+    "qrDescription": "This code opens my contribution page.",
+    "revealQr": "Reveal QR code",
+    "qrHint": "Tap to unblur"
+  },
+  "notFound": {
+    "eyebrow": "Crucible / 404",
+    "title": "I couldn’t find that entry.",
+    "description": "I may have moved it, renamed it, or not written it yet.",
+    "backLabel": "Back to my projects"
+  },
+  "globalHome": {
+    "eyebrow": "My workbench / Project log",
+    "title": "Things I’m building.",
+    "description": "this is where I log my hardware projects as they happen—from the first sketch and parts list to the failures, fixes, and final result.",
+    "searchPlaceholder": "Search my projects or tags…",
+    "workspaceHeading": "Browse my projects",
+    "noResults": "I couldn’t find a project matching that search.",
+    "openLabel": "View project",
+    "workspaces": {
+      "Template": "The structure I use to document a hardware build from its first idea to the final result."
+    }
+  },
+  "workspaceLoader": {
+    "status": "Opening project",
+    "workspaces": {
+      "Template": {
+        "title": "Opening my Crucible template",
+        "description": "Loading the structure I use for project logs, build notes, experiments, and references."
+      }
+    }
+  }
+}

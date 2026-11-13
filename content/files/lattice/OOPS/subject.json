@@ -1,0 +1,8 @@
+{
+  "id": "OOPS",
+  "label": "Object-Oriented Programming",
+  "description": "Object-oriented concepts, design principles, patterns, and maintainable software design.",
+  "icon": "box",
+  "pillLabel": "Fundamentals",
+  "sidebarUrl": "/content/OOPS_Sidebar.json"
+}

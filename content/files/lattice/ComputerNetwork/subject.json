@@ -1,0 +1,8 @@
+{
+  "id": "ComputerNetwork",
+  "label": "Computer Networks",
+  "description": "Foundations of data transmission, protocols, addressing, routing, and network control.",
+  "icon": "compass",
+  "pillLabel": "Fundamentals",
+  "sidebarUrl": "/content/Computer_Network_Sidebar.json"
+}

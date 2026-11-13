@@ -1,0 +1,41 @@
+{
+  "home": {
+    "label": "Overview",
+    "path": "/"
+  },
+  "categories": [
+    {
+      "title": "Fundamentals",
+      "icon": "book",
+      "topics": {
+        "Basics of Data Transmission": "/fundamentals/basics-of-data-transmission",
+        "Encoding Methods": "/fundamentals/encoding-methods",
+        "Error Detection & Correction": "/fundamentals/error-detection-correction",
+        "Multiplexing": "/fundamentals/multiplexing",
+        "Terminologies": "/fundamentals/terminologies",
+        "Types of Architecture": "/fundamentals/types-of-architecture",
+        "Types of Network Devices": "/fundamentals/types-of-network-devices",
+        "Types of Networks": "/fundamentals/types-of-networks",
+        "Types of Topology": "/fundamentals/types-of-topology"
+      }
+    },
+    {
+      "title": "Subordinate Concepts",
+      "icon": "layers",
+      "topics": {
+        "Access Control": "/subordinate-concepts/access-control",
+        "Admission Control": "/subordinate-concepts/admission-control",
+        "Congestion Control": "/subordinate-concepts/congestion-control",
+        "Flow Control": "/subordinate-concepts/flow-control",
+        "OSI Overview": "/subordinate-concepts/osi-overview",
+        "Network Diagram": "/subordinate-concepts/png",
+        "Routing": "/subordinate-concepts/routing",
+        "Subnetting": "/subordinate-concepts/subnetting",
+        "Supernetting": "/subordinate-concepts/supernetting",
+        "Switching": "/subordinate-concepts/switching",
+        "TCP/IP Overview": "/subordinate-concepts/tcpip-overview",
+        "Virtualization": "/subordinate-concepts/virtualization"
+      }
+    }
+  ]
+}

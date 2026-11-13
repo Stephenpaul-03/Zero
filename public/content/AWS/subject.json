@@ -1,0 +1,8 @@
+{
+  "id": "AWS",
+  "label": "Introduction to AWS",
+  "description": "A structured introduction to cloud computing, AWS architecture, services, security, and operations.",
+  "icon": "cloud",
+  "pillLabel": "Cloud Computing",
+  "sidebarUrl": "/content/AWS_Sidebar.json"
+}

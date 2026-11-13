@@ -1,0 +1,8 @@
+{
+  "id": "JavaScript",
+  "label": "JavaScript",
+  "description": "JavaScript fundamentals, language behavior, asynchronous concepts, modules, and browser programming.",
+  "icon": "cpu",
+  "pillLabel": "Programming Languages",
+  "sidebarUrl": "/content/JavaScript_Sidebar.json"
+}

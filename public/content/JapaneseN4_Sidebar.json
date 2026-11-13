@@ -1,0 +1,45 @@
+{
+  "home": {
+    "label": "Overview",
+    "path": "/"
+  },
+  "categories": [
+    {
+      "title": "Start Here",
+      "topics": {
+        "N4 Course Guide": "/start-here/n4-course-guide"
+      }
+    },
+    {
+      "title": "Reading",
+      "topics": {
+        "N4 Reading and Kanji": "/reading/n4-reading-and-kanji"
+      }
+    },
+    {
+      "title": "Grammar",
+      "topics": {
+        "N4 Grammar Patterns": "/grammar/n4-grammar-patterns",
+        "N4 Particles and Connectors": "/grammar/n4-particles-and-connectors",
+        "Particles Reference": "/grammar/particles-reference"
+      }
+    },
+    {
+      "title": "Vocabulary",
+      "topics": {
+        "Nouns Reference": "/vocabulary/nouns-reference",
+        "Verbs Reference": "/vocabulary/verbs-reference",
+        "Katakana Words Reference": "/vocabulary/katakana-words-reference",
+        "i-Adjectives Reference": "/vocabulary/i-adjectives-reference",
+        "na-Adjectives Reference": "/vocabulary/na-adjectives-reference",
+        "Adverbs Reference": "/vocabulary/adverbs-reference"
+      }
+    },
+    {
+      "title": "Kanji",
+      "topics": {
+        "Kanji Reference": "/kanji/kanji-reference"
+      }
+    }
+  ]
+}

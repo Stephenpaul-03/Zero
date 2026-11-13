@@ -1,0 +1,32 @@
+{
+  "home": {
+    "label": "Overview",
+    "path": "/"
+  },
+  "categories": [
+    {
+      "title": "Getting Started",
+      "icon": "rocket",
+      "topics": {
+        "What is Lattice?": "/getting-started/what-is-lattice",
+        "How a Workspace Works": "/getting-started/how-a-workspace-works"
+      }
+    },
+    {
+      "title": "Content Authoring",
+      "icon": "file-text",
+      "topics": {
+        "Markdown Lessons": "/content-authoring/markdown-lessons",
+        "Concept Checks": "/content-authoring/concept-checks"
+      }
+    },
+    {
+      "title": "Navigation & Features",
+      "icon": "compass",
+      "topics": {
+        "Search and Navigation": "/navigation-and-features/search-and-navigation",
+        "Themes and Downloads": "/navigation-and-features/themes-and-downloads"
+      }
+    }
+  ]
+}

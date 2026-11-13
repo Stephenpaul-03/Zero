@@ -1,0 +1,148 @@
+{
+  "welcome": {
+    "title": "Hi, I’m",
+    "description": "A growing documentation of the things I read, make, question, and learn.",
+    "intro": "This is where I keep the notes, references, questions, and connections that shape what I’m learning.",
+    "points": [
+      {
+        "title": "Capture the useful parts",
+        "description": "Notes are written in markdown and organized into subjects that are easy to browse.",
+        "icon": "book"
+      },
+      {
+        "title": "Follow the threads",
+        "description": "Use the sidebar or search to move between ideas, references, and unfinished questions.",
+        "icon": "compass"
+      },
+      {
+        "title": "Keep it in progress",
+        "description": "These notes are allowed to change as I understand more and revisit old ideas.",
+        "icon": "sparkles"
+      }
+    ],
+    "supportLabel": "Support the project",
+    "startLabel": "Start exploring"
+  },
+  "search": {
+    "title": "Search Zero",
+    "description": "Jump to a topic across every subject.",
+    "placeholder": "Search topics across all subjects…",
+    "recentHeading": "Recently visited",
+    "emptyRecent": "No recent topics. Start typing to search.",
+    "noResults": "No matching topics found."
+  },
+  "support": {
+    "title": "Support Zero",
+    "description": "Zero is an independent learning project. If it has helped you, a small contribution helps keep new subjects and lessons moving.",
+    "primaryAction": "Buy me a coffee",
+    "qrAction": "Scan QR code",
+    "copyAction": "Copy support link instead",
+    "copiedLabel": "Link copied",
+    "contactHeading": "Keep in touch",
+    "projectsHeading": "More from the studio",
+    "projectsDescription": "New experiments, references, and small tools.",
+    "projectsAction": "View the project list",
+    "links": {
+      "github": "GitHub",
+      "linkedin": "LinkedIn",
+      "portfolio": "Portfolio"
+    },
+    "qrTitle": "Scan to support",
+    "qrDescription": "Point your camera at the code to make a contribution.",
+    "revealQr": "Reveal QR code",
+    "qrHint": "Tap to unblur"
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Let’s talk",
+    "description": "Have feedback, a question, or an idea for Zero? Reach out through any of the channels below.",
+    "note": "Email is the best way to get in touch. You can also find me on LinkedIn or GitHub.",
+    "links": {
+      "email": "Send an email",
+      "github": "Find me on Github",
+      "linkedin": "Connect on LinkedIn"
+    }
+  },
+  "notFound": {
+    "eyebrow": "Zero / 404",
+    "title": "This page is still a blank space.",
+    "description": "The topic you’re looking for doesn’t exist here yet, or it may have moved.",
+    "backLabel": "Back to home"
+  },
+  "globalHome": {
+    "eyebrow": "Zero / Home",
+    "title": "Things I’m learning.",
+    "description": "this is where I document what I read, understand, question, and come back to as my thinking develops.",
+    "searchPlaceholder": "Search my notes or subjects…",
+    "workspaceHeading": "Browse my notes",
+    "noResults": "I couldn’t find a note matching that search.",
+    "openLabel": "View notes",
+    "workspaces": {
+      "Template": "A personal record of notes, references, experiments, and things I’m learning.",
+      "Git": "A practical introduction to Git concepts, commands, workflows, and collaboration.",
+      "AWS": "A structured introduction to cloud computing, AWS architecture, services, security, and operations.",
+      "Algorithms": "Core searching and sorting algorithms with their trade-offs and use cases.",
+      "ComputerNetwork": "Foundations of data transmission, protocols, addressing, routing, and network control.",
+      "DatabaseManagementSystem": "Database design, transactions, distributed systems, warehousing, and NoSQL.",
+      "OOPS": "Object-oriented concepts, design principles, patterns, and maintainable software design.",
+      "JavaScript": "JavaScript fundamentals, language behavior, asynchronous concepts, modules, and browser programming.",
+      "Python": "Python fundamentals, error handling, functions, and core data structures.",
+      "SQL": "SQL querying, relational design, functions, optimization, transactions, and database theory.",
+      "JapaneseN5": "Japanese writing, grammar, vocabulary, and kanji for the JLPT N5 level.",
+      "JapaneseN4": "Japanese reading, grammar, vocabulary, and kanji for the JLPT N4 level."
+    }
+  },
+  "workspaceLoader": {
+    "status": "Preparing workspace",
+    "workspaces": {
+      "Template": {
+        "title": "Opening Zero Template",
+        "description": "Preparing the guide to workspaces, markdown lessons, navigation, and the rest of Zero."
+      },
+      "Git": {
+        "title": "Opening Introduction to Git",
+        "description": "Preparing notes on Git concepts, commands, history, and collaboration."
+      },
+      "AWS": {
+        "title": "Opening Introduction to AWS",
+        "description": "Preparing notes on cloud computing, AWS architecture, services, security, and operations."
+      },
+      "Algorithms": {
+        "title": "Opening Algorithms",
+        "description": "Preparing notes on searching, sorting, and algorithmic trade-offs."
+      },
+      "ComputerNetwork": {
+        "title": "Opening Computer Networks",
+        "description": "Preparing notes on transmission, protocols, routing, and network control."
+      },
+      "DatabaseManagementSystem": {
+        "title": "Opening Database Management Systems",
+        "description": "Preparing notes on database design, transactions, distributed systems, and NoSQL."
+      },
+      "OOPS": {
+        "title": "Opening Object-Oriented Programming",
+        "description": "Preparing notes on object-oriented concepts, principles, and design patterns."
+      },
+      "JavaScript": {
+        "title": "Opening JavaScript",
+        "description": "Preparing notes on JavaScript fundamentals, language behavior, and browser programming."
+      },
+      "Python": {
+        "title": "Opening Python",
+        "description": "Preparing notes on Python fundamentals and core data structures."
+      },
+      "SQL": {
+        "title": "Opening SQL",
+        "description": "Preparing notes on SQL querying, relational design, optimization, and transactions."
+      },
+      "JapaneseN5": {
+        "title": "Opening Introduction to Japanese - N5",
+        "description": "Preparing Japanese N5 writing, grammar, vocabulary, and kanji lessons."
+      },
+      "JapaneseN4": {
+        "title": "Opening Introduction to Japanese - N4",
+        "description": "Preparing Japanese N4 reading, grammar, vocabulary, and kanji lessons."
+      }
+    }
+  }
+}

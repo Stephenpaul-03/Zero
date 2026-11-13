@@ -1,0 +1,3294 @@
+{
+  "version": 1,
+  "sections": {
+    "learn": [
+      {
+        "id": "learn-language",
+        "title": "Language",
+        "order": 0,
+        "menus": [
+          {
+            "id": "learn-japanesen5",
+            "title": "Introduction to Japanese - N5",
+            "slug": "japanesen5",
+            "listed": true,
+            "order": 0,
+            "sections": [
+              {
+                "title": "Overview",
+                "slug": "overview",
+                "order": -1,
+                "documents": [
+                  {
+                    "id": "b4a87795160b30d5",
+                    "title": "Introduction to Japanese — N5",
+                    "slug": "",
+                    "file": "files/lattice/JapaneseN5/home.md",
+                    "order": 0
+                  }
+                ],
+                "children": []
+              },
+              {
+                "title": "Start Here",
+                "slug": "start-here",
+                "order": 0,
+                "documents": [
+                  {
+                    "id": "d9b3693be2408c8f",
+                    "title": "N5 Course Guide",
+                    "slug": "start-here/n5-course-guide",
+                    "file": "files/lattice/JapaneseN5/Start Here/n5-course-guide.md",
+                    "order": 0
+                  },
+                  {
+                    "id": "745c883d0161df6e",
+                    "title": "N5 Study Plan",
+                    "slug": "start-here/n5-study-plan",
+                    "file": "files/lattice/JapaneseN5/Start Here/n5-study-plan.md",
+                    "order": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "title": "Writing",
+                "slug": "writing",
+                "order": 1,
+                "documents": [
+                  {
+                    "id": "48c82c2213324050",
+                    "title": "Japanese Writing Systems",
+                    "slug": "writing/japanese-writing-systems",
+                    "file": "files/lattice/JapaneseN5/Writing/japanese-writing-systems.md",
+                    "order": 0
+                  },
+                  {
+                    "id": "48b6ff13269be82c",
+                    "title": "Hiragana",
+                    "slug": "writing/hiragana",
+                    "file": "files/lattice/JapaneseN5/Writing/hiragana.md",
+                    "order": 1
+                  },
+                  {
+                    "id": "6d65d3b9370dee16",
+                    "title": "Katakana",
+                    "slug": "writing/katakana",
+                    "file": "files/lattice/JapaneseN5/Writing/katakana.md",
+                    "order": 2
+                  }
+                ],
+                "children": []
+              },
+              {
+                "title": "Grammar",
+                "slug": "grammar",
+                "order": 2,
+                "documents": [
+                  {
+                    "id": "d9c57dd336bc2e34",
+                    "title": "N5 Sentence Basics",
+                    "slug": "grammar/n5-sentence-basics",
+                    "file": "files/lattice/JapaneseN5/Grammar/n5-sentence-basics.md",
+                    "order": 0
+                  },
+                  {
+                    "id": "5fea88ba164a451d",
+                    "title": "N5 Particles",
+                    "slug": "grammar/n5-particles",
+                    "file": "files/lattice/JapaneseN5/Grammar/n5-particles.md",
+                    "order": 1
+                  },
+                  {
+                    "id": "8514a5ab77d3dc4a",
+                    "title": "N5 Verb and Adjective Forms",
+                    "slug": "grammar/n5-verb-and-adjective-forms",
+                    "file": "files/lattice/JapaneseN5/Grammar/n5-verb-and-adjective-forms.md",
+                    "order": 2
+                  },
+                  {
+                    "id": "5429663db2b5384c",
+                    "title": "Particles Reference",
+                    "slug": "grammar/particles-reference",
+                    "file": "files/lattice/JapaneseN5/Grammar/particles-reference.md",
+                    "order": 3
+                  }
+                ],
+                "children": []
+              },
+              {
+                "title": "Vocabulary",
+                "slug": "vocabulary",
+                "order": 3,
+                "documents": [
+                  {
+                    "id": "a6a1bcab458cb24b",
+                    "title": "Nouns Reference",
+                    "slug": "vocabulary/nouns-reference",
+                    "file": "files/lattice/JapaneseN5/Vocabulary/nouns-reference.md",
+                    "order": 0
+                  },
+                  {
+                    "id": "9e9b41cef2774e79",
+                    "title": "Verbs Reference",
+                    "slug": "vocabulary/verbs-reference",
+                    "file": "files/lattice/JapaneseN5/Vocabulary/verbs-reference.md",
+                    "order": 1
+                  },
+                  {
+                    "id": "05bcd119654a73c2",
+                    "title": "Katakana Words Reference",
+                    "slug": "vocabulary/katakana-words-reference",
+                    "file": "files/lattice/JapaneseN5/Vocabulary/katakana-words-reference.md",
+                    "order": 2
+                  },
+                  {
+                    "id": "76c69710660f3180",
+                    "title": "i-Adjectives Reference",
+                    "slug": "vocabulary/i-adjectives-reference",
+                    "file": "files/lattice/JapaneseN5/Vocabulary/i-adjectives-reference.md",
+                    "order": 3
+                  },
+                  {
+                    "id": "7f9895c0fd1a104a",
+                    "title": "na-Adjectives Reference",
+                    "slug": "vocabulary/na-adjectives-reference",
+                    "file": "files/lattice/JapaneseN5/Vocabulary/na-adjectives-reference.md",
+                    "order": 4
+                  },
+                  {
+                    "id": "ee8be91579e191cd",
+                    "title": "Adverbs Reference",
+                    "slug": "vocabulary/adverbs-reference",
+                    "file": "files/lattice/JapaneseN5/Vocabulary/adverbs-reference.md",
+                    "order": 5
+                  }
+                ],
+                "children": []
+              },
+              {
+                "title": "Kanji",
+                "slug": "kanji",
+                "order": 4,
+                "documents": [
+                  {
+                    "id": "def2e52c4e4589e9",
+                    "title": "Kanji Reference",
+                    "slug": "kanji/kanji-reference",
+                    "file": "files/lattice/JapaneseN5/Kanji/kanji-reference.md",
+                    "order": 0
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "learn-japanesen4",
+            "title": "Introduction to Japanese - N4",
+            "slug": "japanesen4",
+            "listed": true,
+            "order": 1,
+            "sections": [
+              {
+                "title": "Overview",
+                "slug": "overview",
+                "order": -1,
+                "documents": [
+                  {
+                    "id": "612baff428cd75f3",
+                    "title": "Introduction to Japanese — N4",
+                    "slug": "",
+                    "file": "files/lattice/JapaneseN4/home.md",
+                    "order": 0
+                  }
+                ],
+                "children": []
+              },
+              {
+                "title": "Start Here",
+                "slug": "start-here",
+                "order": 0,
+                "documents": [
+                  {
+                    "id": "2ea0d6fa7f5f2be7",
+                    "title": "N4 Course Guide",
+                    "slug": "start-here/n4-course-guide",
+                    "file": "files/lattice/JapaneseN4/Start Here/n4-course-guide.md",
+                    "order": 0
+                  }
+                ],
+                "children": []
+              },
+              {
+                "title": "Reading",
+                "slug": "reading",
+                "order": 1,
+                "documents": [
+                  {
+                    "id": "4c8cfc1ac9f314cf",
+                    "title": "N4 Reading and Kanji",
+                    "slug": "reading/n4-reading-and-kanji",
+                    "file": "files/lattice/JapaneseN4/Reading/n4-reading-and-kanji.md",
+                    "order": 0
+                  }
+                ],
+                "children": []
+              },
+              {
+                "title": "Grammar",
+                "slug": "grammar",
+                "order": 2,
+                "documents": [
+                  {
+                    "id": "0579bd40ce954179",
+                    "title": "N4 Grammar Patterns",
+                    "slug": "grammar/n4-grammar-patterns",
+                    "file": "files/lattice/JapaneseN4/Grammar/n4-grammar-patterns.md",
+                    "order": 0
+                  },
+                  {
+                    "id": "5f0a426efe8de03f",
+                    "title": "N4 Particles and Connectors",
+                    "slug": "grammar/n4-particles-and-connectors",
+                    "file": "files/lattice/JapaneseN4/Grammar/n4-particles-and-connectors.md",
+                    "order": 1
+                  },
+                  {
+                    "id": "5f9998fe8d49fd4a",
+                    "title": "Particles Reference",
+                    "slug": "grammar/particles-reference",
+                    "file": "files/lattice/JapaneseN4/Grammar/particles-reference.md",
+                    "order": 2
+                  }
+                ],
+                "children": []
+              },
+              {
+                "title": "Vocabulary",
+                "slug": "vocabulary",
+                "order": 3,
+                "documents": [
+                  {
+                    "id": "c5291580ed4fadd6",
+                    "title": "Nouns Reference",
+                    "slug": "vocabulary/nouns-reference",
+                    "file": "files/lattice/JapaneseN4/Vocabulary/nouns-reference.md",
+                    "order": 0
+                  },
+                  {
+                    "id": "3ef46fac556367f0",
+                    "title": "Verbs Reference",
+                    "slug": "vocabulary/verbs-reference",
+                    "file": "files/lattice/JapaneseN4/Vocabulary/verbs-reference.md",
+                    "order": 1
+                  },
+                  {
+                    "id": "3e923ed2c54f6600",
+                    "title": "Katakana Words Reference",
+                    "slug": "vocabulary/katakana-words-reference",
+                    "file": "files/lattice/JapaneseN4/Vocabulary/katakana-words-reference.md",
+                    "order": 2
+                  },
+                  {
+                    "id": "54c0103eba0693bf",
+                    "title": "i-Adjectives Reference",
+                    "slug": "vocabulary/i-adjectives-reference",
+                    "file": "files/lattice/JapaneseN4/Vocabulary/i-adjectives-reference.md",
+                    "order": 3
+                  },
+                  {
+                    "id": "ceed072821e61e4b",
+                    "title": "na-Adjectives Reference",
+                    "slug": "vocabulary/na-adjectives-reference",
+                    "file": "files/lattice/JapaneseN4/Vocabulary/na-adjectives-reference.md",
+                    "order": 4
+                  },
+                  {
+                    "id": "957960e372c4c571",
+                    "title": "Adverbs Reference",
+                    "slug": "vocabulary/adverbs-reference",
+                    "file": "files/lattice/JapaneseN4/Vocabulary/adverbs-reference.md",
+                    "order": 5
+                  }
+                ],
+                "children": []
+              },
+              {
+                "title": "Kanji",
+                "slug": "kanji",
+                "order": 4,
+                "documents": [
+                  {
+                    "id": "2e1cf10f38cd5302",
+                    "title": "Kanji Reference",
+                    "slug": "kanji/kanji-reference",
+                    "file": "files/lattice/JapaneseN4/Kanji/kanji-reference.md",
+                    "order": 0
+                  }
+                ],
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "learn-development-tools",
+        "title": "Development Tools",
+        "order": 1,
+        "menus": [
+          {
+            "id": "learn-git",
+            "title": "Introduction to Git",
+            "slug": "git",
+            "listed": true,
+            "order": 2,
+            "sections": [
+              {
+                "title": "Overview",
+                "slug": "overview",
+                "order": -1,
+                "documents": [
+                  {
+                    "id": "3319706db7043a75",
+                    "title": "Git",
+                    "slug": "",
+                    "file": "files/lattice/Git/home.md",
+                    "order": 0
+                  }
+                ],
+                "children": []
+              },
+              {
+                "title": "Getting Started",
+                "slug": "getting-started",
+                "order": 0,
+                "documents": [
+                  {
+                    "id": "559924713f019006",
+                    "title": "Introduction",
+                    "slug": "getting-started/introduction",
+                    "file": "files/lattice/Git/Getting Started/introduction.md",
+                    "order": 0
+                  },
+                  {
+                    "id": "716c81e13fc6a8e8",
+                    "title": "Working Model",
+                    "slug": "getting-started/working-model",
+                    "file": "files/lattice/Git/Getting Started/working-model.md",
+                    "order": 1
+                  },
+                  {
+                    "id": "e39b749e58e542aa",
+                    "title": "Commands",
+                    "slug": "getting-started/commands",
+                    "file": "files/lattice/Git/Getting Started/commands.md",
+                    "order": 2
+                  }
+                ],
+                "children": []
+              },
+              {
+                "title": "Core Concepts",
+                "slug": "core-concepts",
+                "order": 1,
+                "documents": [
+                  {
+                    "id": "c7462295645e7e5a",
+                    "title": "Branching",
+                    "slug": "core-concepts/branching",
+                    "file": "files/lattice/Git/Core Concepts/branching.md",
+                    "order": 0
+                  },
+                  {
+                    "id": "01a0db362b2bf55f",
+                    "title": "Committing",
+                    "slug": "core-concepts/committing",
+                    "file": "files/lattice/Git/Core Concepts/committing.md",
+                    "order": 1
+                  },
+                  {
+                    "id": "75502a3b54064eca",
+                    "title": "Merging & Conflict Resolution",
+                    "slug": "core-concepts/merging-conflict-resolution",
+                    "file": "files/lattice/Git/Core Concepts/merging-conflict-resolution.md",
+                    "order": 2
+                  },
+                  {
+                    "id": "76b32fbfab24667f",
+                    "title": "Undoing Changes",
+                    "slug": "core-concepts/undoing-changes",
+                    "file": "files/lattice/Git/Core Concepts/undoing-changes.md",
+                    "order": 3
+                  },
+                  {
+                    "id": "a97bde6d94bfb93c",
+                    "title": "Tracking",
+                    "slug": "core-concepts/tracking",
+                    "file": "files/lattice/Git/Core Concepts/tracking.md",
+                    "order": 4
+                  }
+                ],
+                "children": []
+              },
+              {
+                "title": "History & Collaboration",
+                "slug": "history-collaboration",
+                "order": 2,
+                "documents": [
+                  {
+                    "id": "84dd4f7fef9d5892",
+                    "title": "Rebase",
+                    "slug": "history-collaboration/rebase",
+                    "file": "files/lattice/Git/History & Collaboration/rebase.md",
+                    "order": 0
+                  },
+                  {
+                    "id": "e0c66b4b30491d53",
+                    "title": "Bisect",
+                    "slug": "history-collaboration/bisect",
+                    "file": "files/lattice/Git/History & Collaboration/bisect.md",
+                    "order": 1
+                  },
+                  {
+                    "id": "fdb06515a3ece0f5",
+                    "title": "Cherry Pick",
+                    "slug": "history-collaboration/cherry-pick",
+                    "file": "files/lattice/Git/History & Collaboration/cherry-pick.md",
+                    "order": 2
+                  },
+                  {
+                    "id": "7a91c6d7577fa926",
+                    "title": "Stashing",
+                    "slug": "history-collaboration/stashing",
+                    "file": "files/lattice/Git/History & Collaboration/stashing.md",
+                    "order": 3
+                  },
+                  {
+                    "id": "16f1b2713e504b9d",
+                    "title": "Conventional Commits",
+                    "slug": "history-collaboration/conventional-commits",
+                    "file": "files/lattice/Git/History & Collaboration/conventional-commits.md",
+                    "order": 4
+                  },
+                  {
+                    "id": "fc51e22504561c83",
+                    "title": "GitHub Workflow",
+                    "slug": "history-collaboration/github-workflow",
+                    "file": "files/lattice/Git/History & Collaboration/github-workflow.md",
+                    "order": 5
+                  },
+                  {
+                    "id": "9fa1e41baac715ac",
+                    "title": "Gitignore",
+                    "slug": "history-collaboration/gitignore",
+                    "file": "files/lattice/Git/History & Collaboration/gitignore.md",
+                    "order": 6
+                  },
+                  {
+                    "id": "e1365cd99c55f26a",
+                    "title": "Blame",
+                    "slug": "history-collaboration/blame",
+                    "file": "files/lattice/Git/History & Collaboration/blame.md",
+                    "order": 7
+                  },
+                  {
+                    "id": "dae4f108d67642e0",
+                    "title": "Hooks",
+                    "slug": "history-collaboration/hooks",
+                    "file": "files/lattice/Git/History & Collaboration/hooks.md",
+                    "order": 8
+                  }
+                ],
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "learn-cloud-computing",
+        "title": "Cloud Computing",
+        "order": 2,
+        "menus": [
+          {
+            "id": "learn-aws",
+            "title": "Introduction to AWS",
+            "slug": "aws",
+            "listed": true,
+            "order": 3,
+            "sections": [
+              {
+                "title": "Overview",
+                "slug": "overview",
+                "order": -1,
+                "documents": [
+                  {
+                    "id": "c13aa288bf074f00",
+                    "title": "Introduction to AWS",
+                    "slug": "",
+                    "file": "files/lattice/AWS/home.md",
+                    "order": 0
+                  }
+                ],
+                "children": []
+              },
+              {
+                "title": "Getting Started",
+                "slug": "getting-started",
+                "order": 0,
+                "documents": [
+                  {
+                    "id": "1ed824e452b0cf5b",
+                    "title": "Basics of Cloud",
+                    "slug": "getting-started/basics-of-cloud",
+                    "file": "files/lattice/AWS/Getting Started/basics-of-cloud.md",
+                    "order": 0
+                  },
+                  {
+                    "id": "b187cdee2f690a64",
+                    "title": "AWS Working Model",
+                    "slug": "getting-started/aws-working-model",
+                    "file": "files/lattice/AWS/Getting Started/aws-working-model.md",
+                    "order": 1
+                  },
+                  {
+                    "id": "27f27f631f4cbe02",
+                    "title": "AWS Services Overview",
+                    "slug": "getting-started/aws-services-overview",
+                    "file": "files/lattice/AWS/Getting Started/aws-services-overview.md",
+                    "order": 2
+                  },
+                  {
+                    "id": "10a7716a02b7a219",
+                    "title": "AWS Global Infrastructure",
+                    "slug": "getting-started/aws-global-infrastructure",
+                    "file": "files/lattice/AWS/Getting Started/aws-global-infrastructure.md",
+                    "order": 3
+                  }
+                ],
+                "children": []
+              },
+              {
+                "title": "Core Concepts",
+                "slug": "core-concepts",
+                "order": 1,
+                "documents": [
+                  {
+                    "id": "df145664964daf77",
+                    "title": "AWS Cloud Adoption Framework",
+                    "slug": "core-concepts/aws-cloud-adoption-framework",
+                    "file": "files/lattice/AWS/Core Concepts/aws-cloud-adoption-framework.md",
+                    "order": 0
+                  },
+                  {
+                    "id": "b3d2d596e8d59a7c",
+                    "title": "AWS Migration Strategies",
+                    "slug": "core-concepts/aws-migration-strategies",
+                    "file": "files/lattice/AWS/Core Concepts/aws-migration-strategies.md",
+                    "order": 1
+                  },
+                  {
+                    "id": "578f8dfbf71c0460",
+                    "title": "AWS Shared Responsibility Model",
+                    "slug": "core-concepts/aws-shared-responsibility-model",
+                    "file": "files/lattice/AWS/Core Concepts/aws-shared-responsibility-model.md",
+                    "order": 2
+                  },
+                  {
+                    "id": "df994be3f0dd0ef8",
+                    "title": "AWS Well-Architected Framework",
+                    "slug": "core-concepts/aws-well-architected-framework",
+                    "file": "files/lattice/AWS/Core Concepts/aws-well-architected-framework.md",
+                    "order": 3
+                  }
+                ],
+                "children": []
+              },
+              {
+                "title": "AWS Services",
+                "slug": "aws-services",
+                "order": 2,
+                "documents": [
+                  {
+                    "id": "5660a6d4f8e33668",
+                    "title": "Aurora",
+                    "slug": "aws-services/aurora",
+                    "file": "files/lattice/AWS/AWS Services/aurora.md",
+                    "order": 0
+                  },
+                  {
+                    "id": "cc30e3977fe9247b",
+                    "title": "CloudFront",
+                    "slug": "aws-services/cloudfront",
+                    "file": "files/lattice/AWS/AWS Services/cloudfront.md",
+                    "order": 1
+                  },
+                  {
+                    "id": "f2dc5944b9038bdd",
+                    "title": "Cognito",
+                    "slug": "aws-services/cognito",
+                    "file": "files/lattice/AWS/AWS Services/cognito.md",
+                    "order": 2
+                  },
+                  {
+                    "id": "50c28ddbb88ecfd4",
+                    "title": "AWS Direct Connect",
+                    "slug": "aws-services/direct-connect",
+                    "file": "files/lattice/AWS/AWS Services/direct-connect.md",
+                    "order": 3
+                  },
+                  {
+                    "id": "3f8889f8792329e8",
+                    "title": "DynamoDB",
+                    "slug": "aws-services/dynamodb",
+                    "file": "files/lattice/AWS/AWS Services/dynamodb.md",
+                    "order": 4
+                  },
+                  {
+                    "id": "926533705d764a7d",
+                    "title": "Elastic Block Store (EBS)",
+                    "slug": "aws-services/ebs",
+                    "file": "files/lattice/AWS/AWS Services/ebs.md",
+                    "order": 5
+                  },
+                  {
+                    "id": "11b14c43be176a3f",
+                    "title": "Elastic Compute Cloud (EC2)",
+                    "slug": "aws-services/ec2",
+                    "file": "files/lattice/AWS/AWS Services/ec2.md",
+                    "order": 6
+                  },
+                  {
+                    "id": "2ce79e2516d9b949",
+                    "title": "Elastic Container Service (ECS)",
+                    "slug": "aws-services/ecs-elastic-container-service",
+                    "file": "files/lattice/AWS/AWS Services/ecs-elastic-container-service.md",
+                    "order": 7
+                  },
+                  {
+                    "id": "4936d701b157a9e3",
+                    "title": "Elastic File System (EFS)",
+                    "slug": "aws-services/efs",
+                    "file": "files/lattice/AWS/AWS Services/efs.md",
+                    "order": 8
+                  },
+                  {
+                    "id": "14b63e3ab9b69a22",
+                    "title": "Elastic Kubernetes Service (EKS)",
+                    "slug": "aws-services/eks-elastic-kubernetes-service",
+                    "file": "files/lattice/AWS/AWS Services/eks-elastic-kubernetes-service.md",
+                    "order": 9
+                  },
+                  {
+                    "id": "bd3ac5594ddce697",
+                    "title": "Elastic Load Balancing (ELB)",
+                    "slug": "aws-services/elastic-load-balancer",
+                    "file": "files/lattice/AWS/AWS Services/elastic-load-balancer.md",
+                    "order": 10
+                  },
+                  {
+                    "id": "21bc9b1c04e0e1e6",
+                    "title": "ElastiCache",
+                    "slug": "aws-services/elasticache",
+                    "file": "files/lattice/AWS/AWS Services/elasticache.md",
+                    "order": 11
+                  },
+                  {
+                    "id": "03c3d87adce04b58",
+                    "title": "AWS Fargate",
+                    "slug": "aws-services/fargate",
+                    "file": "files/lattice/AWS/AWS Services/fargate.md",
+                    "order": 12
+                  },
+                  {
+                    "id": "1b5b8ce6dd541ba9",
+                    "title": "FSx",
+                    "slug": "aws-services/fsx",
+                    "file": "files/lattice/AWS/AWS Services/fsx.md",
+                    "order": 13
+                  },
+                  {
+                    "id": "7dc49a8895da56c3",
+                    "title": "AWS Global Accelerator",
+                    "slug": "aws-services/global-accelerator",
+                    "file": "files/lattice/AWS/AWS Services/global-accelerator.md",
+                    "order": 14
+                  },
+                  {
+                    "id": "9ba4e7f91a539c55",
+                    "title": "AWS Identity and Access Management (IAM)",
+                    "slug": "aws-services/iam-identity-and-access-management",
+                    "file": "files/lattice/AWS/AWS Services/iam-identity-and-access-management.md",
+                    "order": 15
+                  },
+                  {
+                    "id": "67c06a756845db5a",
+                    "title": "AWS Lambda",
+                    "slug": "aws-services/lambda",
+                    "file": "files/lattice/AWS/AWS Services/lambda.md",
+                    "order": 16
+                  },
+                  {
+                    "id": "6d3340688785c4f7",
+                    "title": "Lightsail",
+                    "slug": "aws-services/lightsail",
+                    "file": "files/lattice/AWS/AWS Services/lightsail.md",
+                    "order": 17
+                  },
+                  {
+                    "id": "0e3b39d177f3cb4b",
+                    "title": "MFA",
+                    "slug": "aws-services/mfa",
+                    "file": "files/lattice/AWS/AWS Services/mfa.md",
+                    "order": 18
+                  },
+                  {
+                    "id": "e021b17e525301dc",
+                    "title": "Neptune",
+                    "slug": "aws-services/neptune",
+                    "file": "files/lattice/AWS/AWS Services/neptune.md",
+                    "order": 19
+                  },
+                  {
+                    "id": "4ce8c29ef00c349b",
+                    "title": "Relational Database Service (RDS)",
+                    "slug": "aws-services/rds",
+                    "file": "files/lattice/AWS/AWS Services/rds.md",
+                    "order": 20
+                  },
+                  {
+                    "id": "a6d616b2313fe1fb",
+                    "title": "Redshift",
+                    "slug": "aws-services/redshift",
+                    "file": "files/lattice/AWS/AWS Services/redshift.md",
+                    "order": 21
+                  },
+                  {
+                    "id": "934e4aca8ac529e6",
+                    "title": "Route 53",
+                    "slug": "aws-services/route-53",
+                    "file": "files/lattice/AWS/AWS Services/route-53.md",
+                    "order": 22
+                  },
+                  {
+                    "id": "743b4a6ec983f498",
+                    "title": "Simple Storage Service (S3)",
+                    "slug": "aws-services/s3",
+                    "file": "files/lattice/AWS/AWS Services/s3.md",
+                    "order": 23
+                  },
+                  {
+                    "id": "eb455197c79fde6e",
+                    "title": "Virtual Private Cloud (VPC)",
+                    "slug": "aws-services/vpc",
+                    "file": "files/lattice/AWS/AWS Services/vpc.md",
+                    "order": 24
+                  }
+                ],
+                "children": []
+              },
+              {
+                "title": "Security & Operations",
+                "slug": "security-operations",
+                "order": 3,
+                "documents": [
+                  {
+                    "id": "2ad26f57bc77c413",
+                    "title": "AWS Backup",
+                    "slug": "security-operations/aws-backup",
+                    "file": "files/lattice/AWS/Security & Operations/aws-backup.md",
+                    "order": 0
+                  },
+                  {
+                    "id": "68b10ed3dcefccb0",
+                    "title": "AWS Budgets",
+                    "slug": "security-operations/aws-budgets",
+                    "file": "files/lattice/AWS/Security & Operations/aws-budgets.md",
+                    "order": 1
+                  },
+                  {
+                    "id": "8d3161246e1d6d9f",
+                    "title": "AWS Config",
+                    "slug": "security-operations/aws-config",
+                    "file": "files/lattice/AWS/Security & Operations/aws-config.md",
+                    "order": 2
+                  },
+                  {
+                    "id": "2e702f7bd68d7c08",
+                    "title": "AWS Control Tower",
+                    "slug": "security-operations/aws-control-tower",
+                    "file": "files/lattice/AWS/Security & Operations/aws-control-tower.md",
+                    "order": 3
+                  },
+                  {
+                    "id": "b0007f2b574e7c84",
+                    "title": "AWS Cost Explorer",
+                    "slug": "security-operations/aws-cost-explorer",
+                    "file": "files/lattice/AWS/Security & Operations/aws-cost-explorer.md",
+                    "order": 4
+                  },
+                  {
+                    "id": "2745a2e3e968f4a7",
+                    "title": "AWS GuardDuty",
+                    "slug": "security-operations/aws-guardduty",
+                    "file": "files/lattice/AWS/Security & Operations/aws-guardduty.md",
+                    "order": 5
+                  },
+                  {
+                    "id": "95010936d79e5637",
+                    "title": "AWS Inspector",
+                    "slug": "security-operations/aws-inspector",
+                    "file": "files/lattice/AWS/Security & Operations/aws-inspector.md",
+                    "order": 6
+                  },
+                  {
+                    "id": "35fab66938d9be4f",
+                    "title": "AWS Key Management Service (KMS)",
+                    "slug": "security-operations/aws-kms-key-management-service",
+                    "file": "files/lattice/AWS/Security & Operations/aws-kms-key-management-service.md",
+                    "order": 7
+                  },
+                  {
+                    "id": "0d5baee2934a8b2e",
+                    "title": "AWS Macie",
+                    "slug": "security-operations/aws-macie",
+                    "file": "files/lattice/AWS/Security & Operations/aws-macie.md",
+                    "order": 8
+                  },
+                  {
+                    "id": "a0f2920349ac6e0d",
+                    "title": "AWS Organizations",
+                    "slug": "security-operations/aws-organization",
+                    "file": "files/lattice/AWS/Security & Operations/aws-organization.md",
+                    "order": 9
+                  },
+                  {
+                    "id": "ff314d2d54d524e8",
+                    "title": "AWS Pricing Calculator",
+                    "slug": "security-operations/aws-pricing-calculator",
+                    "file": "files/lattice/AWS/Security & Operations/aws-pricing-calculator.md",
+                    "order": 10
+                  },
+                  {
+                    "id": "a4225c26bf5af9a9",
+                    "title": "AWS Secrets Manager",
+                    "slug": "security-operations/aws-secrets-manager",
+                    "file": "files/lattice/AWS/Security & Operations/aws-secrets-manager.md",
+                    "order": 11
+                  },
+                  {
+                    "id": "e2986e3d273148ab",
+                    "title": "AWS Security Hub",
+                    "slug": "security-operations/aws-securtiy-hub",
+                    "file": "files/lattice/AWS/Security & Operations/aws-securtiy-hub.md",
+                    "order": 12
+                  },
+                  {
+                    "id": "3363007a979a3b60",
+                    "title": "AWS Shield",
+                    "slug": "security-operations/aws-shield",
+                    "file": "files/lattice/AWS/Security & Operations/aws-shield.md",
+                    "order": 13
+                  },
+                  {
+                    "id": "f7552dbef76bcdd4",
+                    "title": "AWS Support Plan",
+                    "slug": "security-operations/aws-support-plan",
+                    "file": "files/lattice/AWS/Security & Operations/aws-support-plan.md",
+                    "order": 14
+                  },
+                  {
+                    "id": "345b1ec397467837",
+                    "title": "AWS Trusted Advisor",
+                    "slug": "security-operations/aws-trusted-advisor",
+                    "file": "files/lattice/AWS/Security & Operations/aws-trusted-advisor.md",
+                    "order": 15
+                  },
+                  {
+                    "id": "958f9e19cc5cacdd",
+                    "title": "AWS Web Application Firewall (WAF)",
+                    "slug": "security-operations/aws-waf-web-application-firewall",
+                    "file": "files/lattice/AWS/Security & Operations/aws-waf-web-application-firewall.md",
+                    "order": 16
+                  },
+                  {
+                    "id": "a98ed4462509a24a",
+                    "title": "AWS CloudTrail",
+                    "slug": "security-operations/cloudtrail",
+                    "file": "files/lattice/AWS/Security & Operations/cloudtrail.md",
+                    "order": 17
+                  },
+                  {
+                    "id": "37a3429f1505a6b9",
+                    "title": "CloudWatch",
+                    "slug": "security-operations/cloudwatch",
+                    "file": "files/lattice/AWS/Security & Operations/cloudwatch.md",
+                    "order": 18
+                  },
+                  {
+                    "id": "866768564ae7c46b",
+                    "title": "Service Catalog",
+                    "slug": "security-operations/service-catalog",
+                    "file": "files/lattice/AWS/Security & Operations/service-catalog.md",
+                    "order": 19
+                  }
+                ],
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "learn-fundamentals",
+        "title": "Fundamentals",
+        "order": 3,
+        "menus": [
+          {
+            "id": "learn-algorithms",
+            "title": "Algorithms",
+            "slug": "algorithms",
+            "listed": true,
+            "order": 4,
+            "sections": [
+              {
+                "title": "Overview",
+                "slug": "overview",
+                "order": -1,
+                "documents": [
+                  {
+                    "id": "ac5e6e38a819ea26",
+                    "title": "Algorithms",
+                    "slug": "",
+                    "file": "files/lattice/Algorithms/home.md",
+                    "order": 0
+                  }
+                ],
+                "children": []
+              },
+              {
+                "title": "Searching",
+                "slug": "searching",
+                "order": 0,
+                "documents": [
+                  {
+                    "id": "42e61979717f83ea",
+                    "title": "Binary Search",
+                    "slug": "searching/binary-search",
+                    "file": "files/lattice/Algorithms/Searching/binary-search.md",
+                    "order": 0
+                  },
+                  {
+                    "id": "927eddd6fcb387d8",
+                    "title": "Exponential Search",
+                    "slug": "searching/exponential-search",
+                    "file": "files/lattice/Algorithms/Searching/exponential-search.md",
+                    "order": 1
+                  },
+                  {
+                    "id": "dac159532703196e",
+                    "title": "Interpolation Search",
+                    "slug": "searching/interpolation-search",
+                    "file": "files/lattice/Algorithms/Searching/interpolation-search.md",
+                    "order": 2
+                  },
+                  {
+                    "id": "a53fb266bb7f0477",
+                    "title": "Jump Search",
+                    "slug": "searching/jump-search",
+                    "file": "files/lattice/Algorithms/Searching/jump-search.md",
+                    "order": 3
+                  },
+                  {
+                    "id": "7bd59a82473fa9d7",
+                    "title": "Linear Search",
+                    "slug": "searching/linear-search",
+                    "file": "files/lattice/Algorithms/Searching/linear-search.md",
+                    "order": 4
+                  },
+                  {
+                    "id": "29edb1dcc5038a8e",
+                    "title": "Ternary Search",
+                    "slug": "searching/ternary-search",
+                    "file": "files/lattice/Algorithms/Searching/ternary-search.md",
+                    "order": 5
+                  }
+                ],
+                "children": []
+              },
+              {
+                "title": "Sorting",
+                "slug": "sorting",
+                "order": 1,
+                "documents": [
+                  {
+                    "id": "28ac1b0867ea42ed",
+                    "title": "Bubble Sort",
+                    "slug": "sorting/bubble-sort",
+                    "file": "files/lattice/Algorithms/Sorting/bubble-sort.md",
+                    "order": 0
+                  },
+                  {
+                    "id": "9f8a6cce5f3fb53d",
+                    "title": "Counting Sort",
+                    "slug": "sorting/counting-sort",
+                    "file": "files/lattice/Algorithms/Sorting/counting-sort.md",
+                    "order": 1
+                  },
+                  {
+                    "id": "5543a8d0171f9a46",
+                    "title": "Heap Sort",
+                    "slug": "sorting/heap-sort",
+                    "file": "files/lattice/Algorithms/Sorting/heap-sort.md",
+                    "order": 2
+                  },
+                  {
+                    "id": "1d85d425596d0c4e",
+                    "title": "Insertion Sort",
+                    "slug": "sorting/insertion-sort",
+                    "file": "files/lattice/Algorithms/Sorting/insertion-sort.md",
+                    "order": 3
+                  },
+                  {
+                    "id": "f578179fc9daa61b",
+                    "title": "Merge Sort",
+                    "slug": "sorting/merge-sort",
+                    "file": "files/lattice/Algorithms/Sorting/merge-sort.md",
+                    "order": 4
+                  },
+                  {
+                    "id": "96a665cae43e341e",
+                    "title": "Quick Sort",
+                    "slug": "sorting/quick-sort",
+                    "file": "files/lattice/Algorithms/Sorting/quick-sort.md",
+                    "order": 5
+                  },
+                  {
+                    "id": "32723553b83fa65d",
+                    "title": "Selection Sort",
+                    "slug": "sorting/selection-sort",
+                    "file": "files/lattice/Algorithms/Sorting/selection-sort.md",
+                    "order": 6
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "learn-computernetwork",
+            "title": "Computer Networks",
+            "slug": "computernetwork",
+            "listed": true,
+            "order": 5,
+            "sections": [
+              {
+                "title": "Overview",
+                "slug": "overview",
+                "order": -1,
+                "documents": [
+                  {
+                    "id": "b92f63e6465c866f",
+                    "title": "Computer Networks",
+                    "slug": "",
+                    "file": "files/lattice/ComputerNetwork/home.md",
+                    "order": 0
+                  }
+                ],
+                "children": []
+              },
+              {
+                "title": "Fundamentals",
+                "slug": "fundamentals",
+                "order": 0,
+                "documents": [
+                  {
+                    "id": "7838ea6b2b99cd1b",
+                    "title": "Basics of Data Transmission",
+                    "slug": "fundamentals/basics-of-data-transmission",
+                    "file": "files/lattice/ComputerNetwork/Fundamentals/basics-of-data-transmission.md",
+                    "order": 0
+                  },
+                  {
+                    "id": "040fac6f01b3df82",
+                    "title": "Encoding Methods",
+                    "slug": "fundamentals/encoding-methods",
+                    "file": "files/lattice/ComputerNetwork/Fundamentals/encoding-methods.md",
+                    "order": 1
+                  },
+                  {
+                    "id": "bc3e7252455b28d0",
+                    "title": "Error Detection & Correction",
+                    "slug": "fundamentals/error-detection-correction",
+                    "file": "files/lattice/ComputerNetwork/Fundamentals/error-detection-correction.md",
+                    "order": 2
+                  },
+                  {
+                    "id": "dc3225a8d3275a2f",
+                    "title": "Multiplexing",
+                    "slug": "fundamentals/multiplexing",
+                    "file": "files/lattice/ComputerNetwork/Fundamentals/multiplexing.md",
+                    "order": 3
+                  },
+                  {
+                    "id": "f2e0363f2a3aaff7",
+                    "title": "Terminologies",
+                    "slug": "fundamentals/terminologies",
+                    "file": "files/lattice/ComputerNetwork/Fundamentals/terminologies.md",
+                    "order": 4
+                  },
+                  {
+                    "id": "ee92aeb79dbc4866",
+                    "title": "Types of Architecture",
+                    "slug": "fundamentals/types-of-architecture",
+                    "file": "files/lattice/ComputerNetwork/Fundamentals/types-of-architecture.md",
+                    "order": 5
+                  },
+                  {
+                    "id": "00d4087b42afb444",
+                    "title": "Types of Network Devices",
+                    "slug": "fundamentals/types-of-network-devices",
+                    "file": "files/lattice/ComputerNetwork/Fundamentals/types-of-network-devices.md",
+                    "order": 6
+                  },
+                  {
+                    "id": "3b9a812e306e6c21",
+                    "title": "Types of Networks",
+                    "slug": "fundamentals/types-of-networks",
+                    "file": "files/lattice/ComputerNetwork/Fundamentals/types-of-networks.md",
+                    "order": 7
+                  },
+                  {
+                    "id": "e0abf396dd7e2911",
+                    "title": "Types of Topology",
+                    "slug": "fundamentals/types-of-topology",
+                    "file": "files/lattice/ComputerNetwork/Fundamentals/types-of-topology.md",
+                    "order": 8
+                  }
+                ],
+                "children": []
+              },
+              {
+                "title": "Subordinate Concepts",
+                "slug": "subordinate-concepts",
+                "order": 1,
+                "documents": [
+                  {
+                    "id": "a9849966baa845a1",
+                    "title": "Access Control",
+                    "slug": "subordinate-concepts/access-control",
+                    "file": "files/lattice/ComputerNetwork/Subordinate Concepts/access-control.md",
+                    "order": 0
+                  },
+                  {
+                    "id": "2877786b928c7988",
+                    "title": "Admission Control",
+                    "slug": "subordinate-concepts/admission-control",
+                    "file": "files/lattice/ComputerNetwork/Subordinate Concepts/admission-control.md",
+                    "order": 1
+                  },
+                  {
+                    "id": "fd92db85dd4de486",
+                    "title": "Congestion Control",
+                    "slug": "subordinate-concepts/congestion-control",
+                    "file": "files/lattice/ComputerNetwork/Subordinate Concepts/congestion-control.md",
+                    "order": 2
+                  },
+                  {
+                    "id": "0b6866f9c7d26267",
+                    "title": "Flow Control",
+                    "slug": "subordinate-concepts/flow-control",
+                    "file": "files/lattice/ComputerNetwork/Subordinate Concepts/flow-control.md",
+                    "order": 3
+                  },
+                  {
+                    "id": "dc43a1b14e62f966",
+                    "title": "OSI Overview",
+                    "slug": "subordinate-concepts/osi-overview",
+                    "file": "files/lattice/ComputerNetwork/Subordinate Concepts/osi-overview.md",
+                    "order": 4
+                  },
+                  {
+                    "id": "00996ff0851854ab",
+                    "title": "Network Diagram",
+                    "slug": "subordinate-concepts/png",
+                    "file": "files/lattice/ComputerNetwork/Subordinate Concepts/png.md",
+                    "order": 5
+                  },
+                  {
+                    "id": "9a0fd8baed4fd107",
+                    "title": "Routing",
+                    "slug": "subordinate-concepts/routing",
+                    "file": "files/lattice/ComputerNetwork/Subordinate Concepts/routing.md",
+                    "order": 6
+                  },
+                  {
+                    "id": "d206d827d11f528e",
+                    "title": "Subnetting",
+                    "slug": "subordinate-concepts/subnetting",
+                    "file": "files/lattice/ComputerNetwork/Subordinate Concepts/subnetting.md",
+                    "order": 7
+                  },
+                  {
+                    "id": "cc6b23d00f3d004e",
+                    "title": "Supernetting",
+                    "slug": "subordinate-concepts/supernetting",
+                    "file": "files/lattice/ComputerNetwork/Subordinate Concepts/supernetting.md",
+                    "order": 8
+                  },
+                  {
+                    "id": "4d7948b85e077ec5",
+                    "title": "Switching",
+                    "slug": "subordinate-concepts/switching",
+                    "file": "files/lattice/ComputerNetwork/Subordinate Concepts/switching.md",
+                    "order": 9
+                  },
+                  {
+                    "id": "d29da7bb634d89a5",
+                    "title": "TCP/IP Overview",
+                    "slug": "subordinate-concepts/tcpip-overview",
+                    "file": "files/lattice/ComputerNetwork/Subordinate Concepts/tcpip-overview.md",
+                    "order": 10
+                  },
+                  {
+                    "id": "bbe5033b5fdfe3cb",
+                    "title": "Virtualization",
+                    "slug": "subordinate-concepts/virtualization",
+                    "file": "files/lattice/ComputerNetwork/Subordinate Concepts/virtualization.md",
+                    "order": 11
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "learn-databasemanagementsystem",
+            "title": "Database Management Systems",
+            "slug": "databasemanagementsystem",
+            "listed": true,
+            "order": 6,
+            "sections": [
+              {
+                "title": "Overview",
+                "slug": "overview",
+                "order": -1,
+                "documents": [
+                  {
+                    "id": "2325e78fe74bfff9",
+                    "title": "Database Management Systems",
+                    "slug": "",
+                    "file": "files/lattice/DatabaseManagementSystem/home.md",
+                    "order": 0
+                  }
+                ],
+                "children": []
+              },
+              {
+                "title": "Introduction",
+                "slug": "introduction",
+                "order": 0,
+                "documents": [
+                  {
+                    "id": "45748e10a758a298",
+                    "title": "Data Abstraction",
+                    "slug": "introduction/data-abstraction",
+                    "file": "files/lattice/DatabaseManagementSystem/Introduction/data-abstraction.md",
+                    "order": 0
+                  },
+                  {
+                    "id": "e84dfa814ee44b47",
+                    "title": "Data Independence",
+                    "slug": "introduction/data-independence",
+                    "file": "files/lattice/DatabaseManagementSystem/Introduction/data-independence.md",
+                    "order": 1
+                  },
+                  {
+                    "id": "7c33ad5e696386f4",
+                    "title": "Database Architecture",
+                    "slug": "introduction/database-architecture",
+                    "file": "files/lattice/DatabaseManagementSystem/Introduction/database-architecture.md",
+                    "order": 2
+                  },
+                  {
+                    "id": "7fda7570226feb72",
+                    "title": "Database Components",
+                    "slug": "introduction/database-components",
+                    "file": "files/lattice/DatabaseManagementSystem/Introduction/database-components.md",
+                    "order": 3
+                  },
+                  {
+                    "id": "739c9a7d925c2547",
+                    "title": "Database Languages",
+                    "slug": "introduction/database-languages",
+                    "file": "files/lattice/DatabaseManagementSystem/Introduction/database-languages.md",
+                    "order": 4
+                  },
+                  {
+                    "id": "63fb648c1c172e83",
+                    "title": "Database Types",
+                    "slug": "introduction/database-types",
+                    "file": "files/lattice/DatabaseManagementSystem/Introduction/database-types.md",
+                    "order": 5
+                  },
+                  {
+                    "id": "04fb91b0d4fc7a99",
+                    "title": "Database Users",
+                    "slug": "introduction/database-users",
+                    "file": "files/lattice/DatabaseManagementSystem/Introduction/database-users.md",
+                    "order": 6
+                  },
+                  {
+                    "id": "4d9b6b8f5803ff9e",
+                    "title": "ER Diagrams",
+                    "slug": "introduction/er-diagrams",
+                    "file": "files/lattice/DatabaseManagementSystem/Introduction/er-diagrams.md",
+                    "order": 7
+                  },
+                  {
+                    "id": "26f3e8dab86befad",
+                    "title": "Introduction",
+                    "slug": "introduction/introduction",
+                    "file": "files/lattice/DatabaseManagementSystem/Introduction/introduction.md",
+                    "order": 8
+                  },
+                  {
+                    "id": "c32710567c7c94b2",
+                    "title": "Relational Algebra",
+                    "slug": "introduction/relational-algebra",
+                    "file": "files/lattice/DatabaseManagementSystem/Introduction/relational-algebra.md",
+                    "order": 9
+                  },
+                  {
+                    "id": "bb26877f4c76bb66",
+                    "title": "Relational Models",
+                    "slug": "introduction/relational-models",
+                    "file": "files/lattice/DatabaseManagementSystem/Introduction/relational-models.md",
+                    "order": 10
+                  }
+                ],
+                "children": []
+              },
+              {
+                "title": "Design Concepts",
+                "slug": "design-concepts",
+                "order": 1,
+                "documents": [
+                  {
+                    "id": "fb52c76860bb42c6",
+                    "title": "Constraints",
+                    "slug": "design-concepts/constraints",
+                    "file": "files/lattice/DatabaseManagementSystem/Design Concepts/constraints.md",
+                    "order": 0
+                  },
+                  {
+                    "id": "06f0c29ac856dfd5",
+                    "title": "Decomposition",
+                    "slug": "design-concepts/decomposition",
+                    "file": "files/lattice/DatabaseManagementSystem/Design Concepts/decomposition.md",
+                    "order": 1
+                  },
+                  {
+                    "id": "63f360b52208e3a3",
+                    "title": "Denormalization",
+                    "slug": "design-concepts/denormalization",
+                    "file": "files/lattice/DatabaseManagementSystem/Design Concepts/denormalization.md",
+                    "order": 2
+                  },
+                  {
+                    "id": "713bc785e5457fb5",
+                    "title": "Dependencies",
+                    "slug": "design-concepts/dependencies",
+                    "file": "files/lattice/DatabaseManagementSystem/Design Concepts/dependencies.md",
+                    "order": 3
+                  },
+                  {
+                    "id": "83726354c15051ff",
+                    "title": "Hashing",
+                    "slug": "design-concepts/hashing",
+                    "file": "files/lattice/DatabaseManagementSystem/Design Concepts/hashing.md",
+                    "order": 4
+                  },
+                  {
+                    "id": "2f8df52e8cd92933",
+                    "title": "Indexing",
+                    "slug": "design-concepts/indexing",
+                    "file": "files/lattice/DatabaseManagementSystem/Design Concepts/indexing.md",
+                    "order": 5
+                  },
+                  {
+                    "id": "b1a69a3dc19bfa66",
+                    "title": "Joins",
+                    "slug": "design-concepts/joins",
+                    "file": "files/lattice/DatabaseManagementSystem/Design Concepts/joins.md",
+                    "order": 6
+                  },
+                  {
+                    "id": "bc988ce48bdead45",
+                    "title": "Keys",
+                    "slug": "design-concepts/keys",
+                    "file": "files/lattice/DatabaseManagementSystem/Design Concepts/keys.md",
+                    "order": 7
+                  },
+                  {
+                    "id": "aa6fda3af831c3e4",
+                    "title": "Normalization",
+                    "slug": "design-concepts/normalization",
+                    "file": "files/lattice/DatabaseManagementSystem/Design Concepts/normalization.md",
+                    "order": 8
+                  },
+                  {
+                    "id": "65e8b82b5baa55f4",
+                    "title": "Stored Procedures",
+                    "slug": "design-concepts/stored-procedures",
+                    "file": "files/lattice/DatabaseManagementSystem/Design Concepts/stored-procedures.md",
+                    "order": 9
+                  },
+                  {
+                    "id": "813230866faf0a00",
+                    "title": "Triggers",
+                    "slug": "design-concepts/triggers",
+                    "file": "files/lattice/DatabaseManagementSystem/Design Concepts/triggers.md",
+                    "order": 10
+                  },
+                  {
+                    "id": "b66871ba7a448a60",
+                    "title": "Views",
+                    "slug": "design-concepts/views",
+                    "file": "files/lattice/DatabaseManagementSystem/Design Concepts/views.md",
+                    "order": 11
+                  }
+                ],
+                "children": []
+              },
+              {
+                "title": "Advanced",
+                "slug": "advanced",
+                "order": 2,
+                "documents": [
+                  {
+                    "id": "973a10eb58014acc",
+                    "title": "Access Control",
+                    "slug": "advanced/access-control",
+                    "file": "files/lattice/DatabaseManagementSystem/Advanced/access-control.md",
+                    "order": 0
+                  },
+                  {
+                    "id": "9375e1dd2067bbbf",
+                    "title": "Auditing & Compliance",
+                    "slug": "advanced/auditing-compliance",
+                    "file": "files/lattice/DatabaseManagementSystem/Advanced/auditing-compliance.md",
+                    "order": 1
+                  },
+                  {
+                    "id": "87ad34f69c4bb987",
+                    "title": "Buffer Management",
+                    "slug": "advanced/buffer-management",
+                    "file": "files/lattice/DatabaseManagementSystem/Advanced/buffer-management.md",
+                    "order": 2
+                  },
+                  {
+                    "id": "1c8ed2b27f4c031a",
+                    "title": "Concurrency Control",
+                    "slug": "advanced/concurrency-control",
+                    "file": "files/lattice/DatabaseManagementSystem/Advanced/concurrency-control.md",
+                    "order": 3
+                  },
+                  {
+                    "id": "1714f8d69384abed",
+                    "title": "Database Storage File Structure",
+                    "slug": "advanced/database-storage-file-structure",
+                    "file": "files/lattice/DatabaseManagementSystem/Advanced/database-storage-file-structure.md",
+                    "order": 4
+                  },
+                  {
+                    "id": "61d759f0b512638b",
+                    "title": "Deadlocks",
+                    "slug": "advanced/deadlocks",
+                    "file": "files/lattice/DatabaseManagementSystem/Advanced/deadlocks.md",
+                    "order": 5
+                  },
+                  {
+                    "id": "c2f863b121dea1f3",
+                    "title": "Encryption at Rest Transit",
+                    "slug": "advanced/encryption-at-rest-transit",
+                    "file": "files/lattice/DatabaseManagementSystem/Advanced/encryption-at-rest-transit.md",
+                    "order": 6
+                  },
+                  {
+                    "id": "075d895f479f275a",
+                    "title": "Execution Plans",
+                    "slug": "advanced/execution-plans",
+                    "file": "files/lattice/DatabaseManagementSystem/Advanced/execution-plans.md",
+                    "order": 7
+                  },
+                  {
+                    "id": "ffce79acadc94586",
+                    "title": "Heuristics",
+                    "slug": "advanced/heuristics",
+                    "file": "files/lattice/DatabaseManagementSystem/Advanced/heuristics.md",
+                    "order": 8
+                  },
+                  {
+                    "id": "76e7c9c3dd672655",
+                    "title": "Join Ordering",
+                    "slug": "advanced/join-ordering",
+                    "file": "files/lattice/DatabaseManagementSystem/Advanced/join-ordering.md",
+                    "order": 9
+                  },
+                  {
+                    "id": "ac8df0cdaf92f9b0",
+                    "title": "Materialization",
+                    "slug": "advanced/materialization",
+                    "file": "files/lattice/DatabaseManagementSystem/Advanced/materialization.md",
+                    "order": 10
+                  },
+                  {
+                    "id": "3c9c033f6a8eb00c",
+                    "title": "Pipelining",
+                    "slug": "advanced/pipelining",
+                    "file": "files/lattice/DatabaseManagementSystem/Advanced/pipelining.md",
+                    "order": 11
+                  },
+                  {
+                    "id": "3709576d78fdfffe",
+                    "title": "Protocols",
+                    "slug": "advanced/protocols",
+                    "file": "files/lattice/DatabaseManagementSystem/Advanced/protocols.md",
+                    "order": 12
+                  },
+                  {
+                    "id": "8be22e85241f9cb2",
+                    "title": "Recoverability",
+                    "slug": "advanced/recoverability",
+                    "file": "files/lattice/DatabaseManagementSystem/Advanced/recoverability.md",
+                    "order": 13
+                  },
+                  {
+                    "id": "f0063e4a684bd7cb",
+                    "title": "Scheduling",
+                    "slug": "advanced/scheduling",
+                    "file": "files/lattice/DatabaseManagementSystem/Advanced/scheduling.md",
+                    "order": 14
+                  },
+                  {
+                    "id": "5644d81c9afa5d32",
+                    "title": "Starvation",
+                    "slug": "advanced/starvation",
+                    "file": "files/lattice/DatabaseManagementSystem/Advanced/starvation.md",
+                    "order": 15
+                  }
+                ],
+                "children": []
+              },
+              {
+                "title": "DDBMS",
+                "slug": "ddbms",
+                "order": 3,
+                "documents": [
+                  {
+                    "id": "2e89ba08156ea59b",
+                    "title": "2PC & 3PC",
+                    "slug": "ddbms/2pc-3pc",
+                    "file": "files/lattice/DatabaseManagementSystem/DDBMS/2pc-3pc.md",
+                    "order": 0
+                  },
+                  {
+                    "id": "6d5275cdc7ed6ce7",
+                    "title": "Consistency Models",
+                    "slug": "ddbms/consistency-models",
+                    "file": "files/lattice/DatabaseManagementSystem/DDBMS/consistency-models.md",
+                    "order": 1
+                  },
+                  {
+                    "id": "481c66433da5a9e4",
+                    "title": "Replication",
+                    "slug": "ddbms/replication",
+                    "file": "files/lattice/DatabaseManagementSystem/DDBMS/replication.md",
+                    "order": 2
+                  },
+                  {
+                    "id": "4c07614155a4280f",
+                    "title": "Sharding",
+                    "slug": "ddbms/sharding",
+                    "file": "files/lattice/DatabaseManagementSystem/DDBMS/sharding.md",
+                    "order": 3
+                  }
+                ],
+                "children": []
+              },
+              {
+                "title": "DataWarehousing",
+                "slug": "datawarehousing",
+                "order": 4,
+                "documents": [
+                  {
+                    "id": "24ce1643a8d877fc",
+                    "title": "Architecture",
+                    "slug": "datawarehousing/architecture",
+                    "file": "files/lattice/DatabaseManagementSystem/DataWarehousing/architecture.md",
+                    "order": 0
+                  },
+                  {
+                    "id": "7a00b828dceb900a",
+                    "title": "Data Modelling",
+                    "slug": "datawarehousing/data-modelling",
+                    "file": "files/lattice/DatabaseManagementSystem/DataWarehousing/data-modelling.md",
+                    "order": 1
+                  },
+                  {
+                    "id": "fe7d8b93090e26b6",
+                    "title": "ETL & ELT",
+                    "slug": "datawarehousing/etl-elt",
+                    "file": "files/lattice/DatabaseManagementSystem/DataWarehousing/etl-elt.md",
+                    "order": 2
+                  },
+                  {
+                    "id": "b1ff9aabc64b4535",
+                    "title": "OLAP & OLTP",
+                    "slug": "datawarehousing/olap-oltp",
+                    "file": "files/lattice/DatabaseManagementSystem/DataWarehousing/olap-oltp.md",
+                    "order": 3
+                  }
+                ],
+                "children": []
+              },
+              {
+                "title": "NoSQL",
+                "slug": "nosql",
+                "order": 5,
+                "documents": [
+                  {
+                    "id": "aff9762245d42bc3",
+                    "title": "ACID",
+                    "slug": "nosql/acid",
+                    "file": "files/lattice/DatabaseManagementSystem/NoSQL/acid.md",
+                    "order": 0
+                  },
+                  {
+                    "id": "589d11627eb106a7",
+                    "title": "BASE",
+                    "slug": "nosql/base",
+                    "file": "files/lattice/DatabaseManagementSystem/NoSQL/base.md",
+                    "order": 1
+                  },
+                  {
+                    "id": "d8421c3176ee8bf0",
+                    "title": "CAP",
+                    "slug": "nosql/cap",
+                    "file": "files/lattice/DatabaseManagementSystem/NoSQL/cap.md",
+                    "order": 2
+                  },
+                  {
+                    "id": "38d9d39ac1141a87",
+                    "title": "Columnar Stores",
+                    "slug": "nosql/columnar-stores",
+                    "file": "files/lattice/DatabaseManagementSystem/NoSQL/columnar-stores.md",
+                    "order": 3
+                  },
+                  {
+                    "id": "d13f0b31d81f6492",
+                    "title": "Document Stores",
+                    "slug": "nosql/document-stores",
+                    "file": "files/lattice/DatabaseManagementSystem/NoSQL/document-stores.md",
+                    "order": 4
+                  },
+                  {
+                    "id": "431e60e7be60ff3d",
+                    "title": "Key-Value Stores",
+                    "slug": "nosql/key-value-stores",
+                    "file": "files/lattice/DatabaseManagementSystem/NoSQL/key-value-stores.md",
+                    "order": 5
+                  },
+                  {
+                    "id": "2590bdd9c95e6cbd",
+                    "title": "Schema-on-Read/Write",
+                    "slug": "nosql/schema-on-read-write",
+                    "file": "files/lattice/DatabaseManagementSystem/NoSQL/schema-on-read-write.md",
+                    "order": 6
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "learn-oops",
+            "title": "Object-Oriented Programming",
+            "slug": "oops",
+            "listed": true,
+            "order": 7,
+            "sections": [
+              {
+                "title": "Overview",
+                "slug": "overview",
+                "order": -1,
+                "documents": [
+                  {
+                    "id": "5cb4e1f6e822218b",
+                    "title": "Object-Oriented Programming",
+                    "slug": "",
+                    "file": "files/lattice/OOPS/home.md",
+                    "order": 0
+                  }
+                ],
+                "children": []
+              },
+              {
+                "title": "Core Concepts",
+                "slug": "core-concepts",
+                "order": 0,
+                "documents": [
+                  {
+                    "id": "ce2c4e4cb3461518",
+                    "title": "Abstraction",
+                    "slug": "core-concepts/abstraction",
+                    "file": "files/lattice/OOPS/Core Concepts/abstraction.md",
+                    "order": 0
+                  },
+                  {
+                    "id": "955d5a855ce42f3b",
+                    "title": "Classes",
+                    "slug": "core-concepts/classes",
+                    "file": "files/lattice/OOPS/Core Concepts/classes.md",
+                    "order": 1
+                  },
+                  {
+                    "id": "7635d5d5ca94db7c",
+                    "title": "Encapsulation",
+                    "slug": "core-concepts/encapsulation",
+                    "file": "files/lattice/OOPS/Core Concepts/encapsulation.md",
+                    "order": 2
+                  },
+                  {
+                    "id": "da8226b153ed2e2a",
+                    "title": "Inheritance",
+                    "slug": "core-concepts/inheritance",
+                    "file": "files/lattice/OOPS/Core Concepts/inheritance.md",
+                    "order": 3
+                  },
+                  {
+                    "id": "e29dfe7c520e1e5f",
+                    "title": "Interface",
+                    "slug": "core-concepts/interface",
+                    "file": "files/lattice/OOPS/Core Concepts/interface.md",
+                    "order": 4
+                  },
+                  {
+                    "id": "23e7da64d669444f",
+                    "title": "Objects",
+                    "slug": "core-concepts/objects",
+                    "file": "files/lattice/OOPS/Core Concepts/objects.md",
+                    "order": 5
+                  },
+                  {
+                    "id": "4a7eac6bd0e9611e",
+                    "title": "Polymorphism",
+                    "slug": "core-concepts/polymorphism",
+                    "file": "files/lattice/OOPS/Core Concepts/polymorphism.md",
+                    "order": 6
+                  }
+                ],
+                "children": []
+              },
+              {
+                "title": "Design Concepts",
+                "slug": "design-concepts",
+                "order": 1,
+                "documents": [
+                  {
+                    "id": "ada62248741f69a7",
+                    "title": "Behavioral Patterns",
+                    "slug": "design-concepts/behavioral-patterns",
+                    "file": "files/lattice/OOPS/Design Concepts/behavioral-patterns.md",
+                    "order": 0
+                  },
+                  {
+                    "id": "295fe396f1d00117",
+                    "title": "Creational Patterns",
+                    "slug": "design-concepts/creational-patterns",
+                    "file": "files/lattice/OOPS/Design Concepts/creational-patterns.md",
+                    "order": 1
+                  },
+                  {
+                    "id": "1ba9c7cc8d69adb3",
+                    "title": "Design Patterns",
+                    "slug": "design-concepts/design-patterns",
+                    "file": "files/lattice/OOPS/Design Concepts/design-patterns.md",
+                    "order": 2
+                  },
+                  {
+                    "id": "7d8e77170bf1fea3",
+                    "title": "God Object",
+                    "slug": "design-concepts/god-object",
+                    "file": "files/lattice/OOPS/Design Concepts/god-object.md",
+                    "order": 3
+                  },
+                  {
+                    "id": "aca3e426d50ac07d",
+                    "title": "Law of Demeter",
+                    "slug": "design-concepts/law-of-demeter",
+                    "file": "files/lattice/OOPS/Design Concepts/law-of-demeter.md",
+                    "order": 4
+                  },
+                  {
+                    "id": "f756364546d97509",
+                    "title": "SOLID Principles",
+                    "slug": "design-concepts/solid-principles",
+                    "file": "files/lattice/OOPS/Design Concepts/solid-principles.md",
+                    "order": 5
+                  },
+                  {
+                    "id": "0e68a5ffa5245e46",
+                    "title": "Structural Patterns",
+                    "slug": "design-concepts/structural-patterns",
+                    "file": "files/lattice/OOPS/Design Concepts/structural-patterns.md",
+                    "order": 6
+                  }
+                ],
+                "children": []
+              },
+              {
+                "title": "Other Concepts",
+                "slug": "other-concepts",
+                "order": 2,
+                "documents": [
+                  {
+                    "id": "ecd8c345f60bc74a",
+                    "title": "Access Specifiers",
+                    "slug": "other-concepts/access-specifiers",
+                    "file": "files/lattice/OOPS/Other Concepts/access-specifiers.md",
+                    "order": 0
+                  },
+                  {
+                    "id": "fc9fa1d280e9b687",
+                    "title": "Cohesion and Coupling",
+                    "slug": "other-concepts/cohesion-and-coupling",
+                    "file": "files/lattice/OOPS/Other Concepts/cohesion-and-coupling.md",
+                    "order": 1
+                  },
+                  {
+                    "id": "713cfc898effeef6",
+                    "title": "Constructors and Destructors",
+                    "slug": "other-concepts/constructors-and-destructors",
+                    "file": "files/lattice/OOPS/Other Concepts/constructors-and-destructors.md",
+                    "order": 2
+                  },
+                  {
+                    "id": "ecb8d44efc98f6ef",
+                    "title": "Message Passing",
+                    "slug": "other-concepts/message-passing",
+                    "file": "files/lattice/OOPS/Other Concepts/message-passing.md",
+                    "order": 3
+                  },
+                  {
+                    "id": "67f73049012c6bbf",
+                    "title": "Method Overloading and Overriding",
+                    "slug": "other-concepts/method-overloading-and-overriding",
+                    "file": "files/lattice/OOPS/Other Concepts/method-overloading-and-overriding.md",
+                    "order": 4
+                  },
+                  {
+                    "id": "20ff2735c193f787",
+                    "title": "Shallow and Deep Copy",
+                    "slug": "other-concepts/shallow-and-deep-copy",
+                    "file": "files/lattice/OOPS/Other Concepts/shallow-and-deep-copy.md",
+                    "order": 5
+                  },
+                  {
+                    "id": "8bcaa202995fdc85",
+                    "title": "Static and Non Static Members",
+                    "slug": "other-concepts/static-and-non-static-members",
+                    "file": "files/lattice/OOPS/Other Concepts/static-and-non-static-members.md",
+                    "order": 6
+                  }
+                ],
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "learn-programming-languages",
+        "title": "Programming Languages",
+        "order": 4,
+        "menus": [
+          {
+            "id": "learn-javascript",
+            "title": "JavaScript",
+            "slug": "javascript",
+            "listed": true,
+            "order": 8,
+            "sections": [
+              {
+                "title": "Overview",
+                "slug": "overview",
+                "order": -1,
+                "documents": [
+                  {
+                    "id": "b3936bad79e5382a",
+                    "title": "JavaScript",
+                    "slug": "",
+                    "file": "files/lattice/JavaScript/home.md",
+                    "order": 0
+                  }
+                ],
+                "children": []
+              },
+              {
+                "title": "Introduction",
+                "slug": "introduction",
+                "order": 0,
+                "documents": [
+                  {
+                    "id": "498c1500e8e3350d",
+                    "title": "JavaScript Overview",
+                    "slug": "introduction/javascript",
+                    "file": "files/lattice/JavaScript/Introduction/javascript.md",
+                    "order": 0
+                  }
+                ],
+                "children": []
+              },
+              {
+                "title": "Fundamentals",
+                "slug": "fundamentals",
+                "order": 1,
+                "documents": [
+                  {
+                    "id": "13d8af3c160d2534",
+                    "title": "Comments",
+                    "slug": "fundamentals/comments",
+                    "file": "files/lattice/JavaScript/Fundamentals/comments.md",
+                    "order": 0
+                  },
+                  {
+                    "id": "ab76cb2f7f51730d",
+                    "title": "Control Flow",
+                    "slug": "fundamentals/control-flow",
+                    "file": "files/lattice/JavaScript/Fundamentals/control-flow.md",
+                    "order": 1
+                  },
+                  {
+                    "id": "54dfb637553f1591",
+                    "title": "Data Types",
+                    "slug": "fundamentals/data-types",
+                    "file": "files/lattice/JavaScript/Fundamentals/data-types.md",
+                    "order": 2
+                  },
+                  {
+                    "id": "78756891e3f216ff",
+                    "title": "Error Handling",
+                    "slug": "fundamentals/error-handling",
+                    "file": "files/lattice/JavaScript/Fundamentals/error-handling.md",
+                    "order": 3
+                  },
+                  {
+                    "id": "682c62150b335e44",
+                    "title": "Functions",
+                    "slug": "fundamentals/functions",
+                    "file": "files/lattice/JavaScript/Fundamentals/functions.md",
+                    "order": 4
+                  },
+                  {
+                    "id": "bfcf71a54c2153a0",
+                    "title": "Operators",
+                    "slug": "fundamentals/operators",
+                    "file": "files/lattice/JavaScript/Fundamentals/operators.md",
+                    "order": 5
+                  },
+                  {
+                    "id": "b91fddc7bbda6efa",
+                    "title": "Scope",
+                    "slug": "fundamentals/scope",
+                    "file": "files/lattice/JavaScript/Fundamentals/scope.md",
+                    "order": 6
+                  },
+                  {
+                    "id": "f4d424b52a2fc5d6",
+                    "title": "Variables",
+                    "slug": "fundamentals/variables",
+                    "file": "files/lattice/JavaScript/Fundamentals/variables.md",
+                    "order": 7
+                  }
+                ],
+                "children": []
+              },
+              {
+                "title": "Subordinate Concepts",
+                "slug": "subordinate-concepts",
+                "order": 2,
+                "documents": [
+                  {
+                    "id": "946b08ca33c2414e",
+                    "title": "Callbacks",
+                    "slug": "subordinate-concepts/callbacks",
+                    "file": "files/lattice/JavaScript/Subordinate Concepts/callbacks.md",
+                    "order": 0
+                  },
+                  {
+                    "id": "dceee235adb41bcf",
+                    "title": "Closures",
+                    "slug": "subordinate-concepts/closures",
+                    "file": "files/lattice/JavaScript/Subordinate Concepts/closures.md",
+                    "order": 1
+                  },
+                  {
+                    "id": "3c3badfb7c7da6a9",
+                    "title": "Events",
+                    "slug": "subordinate-concepts/events",
+                    "file": "files/lattice/JavaScript/Subordinate Concepts/events.md",
+                    "order": 2
+                  },
+                  {
+                    "id": "bc6687765f105abe",
+                    "title": "Hoisting",
+                    "slug": "subordinate-concepts/hoisting",
+                    "file": "files/lattice/JavaScript/Subordinate Concepts/hoisting.md",
+                    "order": 3
+                  },
+                  {
+                    "id": "d84e911f8273ce6d",
+                    "title": "Modules",
+                    "slug": "subordinate-concepts/modules",
+                    "file": "files/lattice/JavaScript/Subordinate Concepts/modules.md",
+                    "order": 4
+                  },
+                  {
+                    "id": "e3af9cac85b7a2dc",
+                    "title": "Set Variants",
+                    "slug": "subordinate-concepts/set-variants",
+                    "file": "files/lattice/JavaScript/Subordinate Concepts/set-variants.md",
+                    "order": 5
+                  },
+                  {
+                    "id": "669d29e037ad036e",
+                    "title": "Storage Types",
+                    "slug": "subordinate-concepts/storage-types",
+                    "file": "files/lattice/JavaScript/Subordinate Concepts/storage-types.md",
+                    "order": 6
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "learn-python",
+            "title": "Python",
+            "slug": "python",
+            "listed": true,
+            "order": 9,
+            "sections": [
+              {
+                "title": "Overview",
+                "slug": "overview",
+                "order": -1,
+                "documents": [
+                  {
+                    "id": "034c5c0df1b01304",
+                    "title": "Python",
+                    "slug": "",
+                    "file": "files/lattice/Python/home.md",
+                    "order": 0
+                  }
+                ],
+                "children": []
+              },
+              {
+                "title": "Fundamentals",
+                "slug": "fundamentals",
+                "order": 0,
+                "documents": [
+                  {
+                    "id": "dc792ef3a05ef8c7",
+                    "title": "Built-in Functions",
+                    "slug": "fundamentals/built-in-functions",
+                    "file": "files/lattice/Python/Fundamentals/built-in-functions.md",
+                    "order": 0
+                  },
+                  {
+                    "id": "ee3cc6360b93d050",
+                    "title": "Comments",
+                    "slug": "fundamentals/comments",
+                    "file": "files/lattice/Python/Fundamentals/comments.md",
+                    "order": 1
+                  },
+                  {
+                    "id": "d929520c747b8efe",
+                    "title": "Conditional Statements",
+                    "slug": "fundamentals/conditional-statements",
+                    "file": "files/lattice/Python/Fundamentals/conditional-statements.md",
+                    "order": 2
+                  },
+                  {
+                    "id": "9c16e8e90a40bebe",
+                    "title": "Data Types",
+                    "slug": "fundamentals/data-types",
+                    "file": "files/lattice/Python/Fundamentals/data-types.md",
+                    "order": 3
+                  },
+                  {
+                    "id": "9c99d9f7a647230b",
+                    "title": "Error Handling",
+                    "slug": "fundamentals/error-handling",
+                    "file": "files/lattice/Python/Fundamentals/error-handling.md",
+                    "order": 4
+                  },
+                  {
+                    "id": "4b977c68d1e26090",
+                    "title": "File Handling",
+                    "slug": "fundamentals/file-handling",
+                    "file": "files/lattice/Python/Fundamentals/file-handling.md",
+                    "order": 5
+                  },
+                  {
+                    "id": "f7071bae9a4f075c",
+                    "title": "Functions",
+                    "slug": "fundamentals/functions",
+                    "file": "files/lattice/Python/Fundamentals/functions.md",
+                    "order": 6
+                  },
+                  {
+                    "id": "18f804075ae5c099",
+                    "title": "Input/Output",
+                    "slug": "fundamentals/input-output",
+                    "file": "files/lattice/Python/Fundamentals/input-output.md",
+                    "order": 7
+                  },
+                  {
+                    "id": "adf87ed2855c662a",
+                    "title": "Keywords",
+                    "slug": "fundamentals/keywords",
+                    "file": "files/lattice/Python/Fundamentals/keywords.md",
+                    "order": 8
+                  },
+                  {
+                    "id": "4869a7af562b3e87",
+                    "title": "Loops",
+                    "slug": "fundamentals/loops",
+                    "file": "files/lattice/Python/Fundamentals/loops.md",
+                    "order": 9
+                  },
+                  {
+                    "id": "9d7fbb705e4b4b88",
+                    "title": "Operators",
+                    "slug": "fundamentals/operators",
+                    "file": "files/lattice/Python/Fundamentals/operators.md",
+                    "order": 10
+                  },
+                  {
+                    "id": "a9bedb4421dc7625",
+                    "title": "Type Casting",
+                    "slug": "fundamentals/type-casting",
+                    "file": "files/lattice/Python/Fundamentals/type-casting.md",
+                    "order": 11
+                  },
+                  {
+                    "id": "5e0a09de0f4e6c24",
+                    "title": "Variables",
+                    "slug": "fundamentals/variables",
+                    "file": "files/lattice/Python/Fundamentals/variables.md",
+                    "order": 12
+                  }
+                ],
+                "children": []
+              },
+              {
+                "title": "Data Structures",
+                "slug": "data-structures",
+                "order": 1,
+                "documents": [
+                  {
+                    "id": "bad988165b4215e9",
+                    "title": "Dictionaries",
+                    "slug": "data-structures/dictionaries",
+                    "file": "files/lattice/Python/Data Structures/dictionaries.md",
+                    "order": 0
+                  },
+                  {
+                    "id": "2198489c232338f3",
+                    "title": "List",
+                    "slug": "data-structures/list",
+                    "file": "files/lattice/Python/Data Structures/list.md",
+                    "order": 1
+                  },
+                  {
+                    "id": "7f95098c173e0d54",
+                    "title": "Set",
+                    "slug": "data-structures/set",
+                    "file": "files/lattice/Python/Data Structures/set.md",
+                    "order": 2
+                  },
+                  {
+                    "id": "43e70351456e12ea",
+                    "title": "String",
+                    "slug": "data-structures/string",
+                    "file": "files/lattice/Python/Data Structures/string.md",
+                    "order": 3
+                  },
+                  {
+                    "id": "e6b0bcfb4a4b1a28",
+                    "title": "Tuples",
+                    "slug": "data-structures/tuples",
+                    "file": "files/lattice/Python/Data Structures/tuples.md",
+                    "order": 4
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "learn-sql",
+            "title": "SQL",
+            "slug": "sql",
+            "listed": true,
+            "order": 10,
+            "sections": [
+              {
+                "title": "Overview",
+                "slug": "overview",
+                "order": -1,
+                "documents": [
+                  {
+                    "id": "58b8942842c28af2",
+                    "title": "SQL",
+                    "slug": "",
+                    "file": "files/lattice/SQL/home.md",
+                    "order": 0
+                  }
+                ],
+                "children": []
+              },
+              {
+                "title": "Fundamentals",
+                "slug": "fundamentals",
+                "order": 0,
+                "documents": [
+                  {
+                    "id": "241bae5103ceb9c6",
+                    "title": "Clauses",
+                    "slug": "fundamentals/clauses",
+                    "file": "files/lattice/SQL/Fundamentals/clauses.md",
+                    "order": 0
+                  },
+                  {
+                    "id": "5d54b56a6ce3e0c7",
+                    "title": "Commands",
+                    "slug": "fundamentals/commands",
+                    "file": "files/lattice/SQL/Fundamentals/commands.md",
+                    "order": 1
+                  },
+                  {
+                    "id": "be16c167ecf1899d",
+                    "title": "Constraints",
+                    "slug": "fundamentals/constraints",
+                    "file": "files/lattice/SQL/Fundamentals/constraints.md",
+                    "order": 2
+                  },
+                  {
+                    "id": "603bc704c8ec1159",
+                    "title": "Data Types",
+                    "slug": "fundamentals/data-types",
+                    "file": "files/lattice/SQL/Fundamentals/data-types.md",
+                    "order": 3
+                  },
+                  {
+                    "id": "f138dd6a7fd8a964",
+                    "title": "Filtering",
+                    "slug": "fundamentals/filtering",
+                    "file": "files/lattice/SQL/Fundamentals/filtering.md",
+                    "order": 4
+                  },
+                  {
+                    "id": "eb986edb696d5894",
+                    "title": "Grouping",
+                    "slug": "fundamentals/grouping",
+                    "file": "files/lattice/SQL/Fundamentals/grouping.md",
+                    "order": 5
+                  },
+                  {
+                    "id": "6fcaa35e2eb895e6",
+                    "title": "Indexes",
+                    "slug": "fundamentals/indexes",
+                    "file": "files/lattice/SQL/Fundamentals/indexes.md",
+                    "order": 6
+                  },
+                  {
+                    "id": "3fc66214da86647b",
+                    "title": "Joins",
+                    "slug": "fundamentals/joins",
+                    "file": "files/lattice/SQL/Fundamentals/joins.md",
+                    "order": 7
+                  },
+                  {
+                    "id": "f8e07b09c080ffa2",
+                    "title": "Operators",
+                    "slug": "fundamentals/operators",
+                    "file": "files/lattice/SQL/Fundamentals/operators.md",
+                    "order": 8
+                  },
+                  {
+                    "id": "cd5b6e75ee404242",
+                    "title": "Query Execution Order",
+                    "slug": "fundamentals/query-execution-order",
+                    "file": "files/lattice/SQL/Fundamentals/query-execution-order.md",
+                    "order": 9
+                  },
+                  {
+                    "id": "250c52a31852f5e3",
+                    "title": "Ranking",
+                    "slug": "fundamentals/ranking",
+                    "file": "files/lattice/SQL/Fundamentals/ranking.md",
+                    "order": 10
+                  },
+                  {
+                    "id": "d919f4f7873a2a5c",
+                    "title": "Sorting",
+                    "slug": "fundamentals/sorting",
+                    "file": "files/lattice/SQL/Fundamentals/sorting.md",
+                    "order": 11
+                  },
+                  {
+                    "id": "f9480c5cefecba2a",
+                    "title": "Stored Procedures",
+                    "slug": "fundamentals/stored-procedures",
+                    "file": "files/lattice/SQL/Fundamentals/stored-procedures.md",
+                    "order": 12
+                  },
+                  {
+                    "id": "da20674760fe69f3",
+                    "title": "Subqueries",
+                    "slug": "fundamentals/subqueries",
+                    "file": "files/lattice/SQL/Fundamentals/subqueries.md",
+                    "order": 13
+                  },
+                  {
+                    "id": "875d9416ded644bc",
+                    "title": "Triggers",
+                    "slug": "fundamentals/triggers",
+                    "file": "files/lattice/SQL/Fundamentals/triggers.md",
+                    "order": 14
+                  },
+                  {
+                    "id": "943b60c8733eb700",
+                    "title": "Views",
+                    "slug": "fundamentals/views",
+                    "file": "files/lattice/SQL/Fundamentals/views.md",
+                    "order": 15
+                  }
+                ],
+                "children": []
+              },
+              {
+                "title": "Functions",
+                "slug": "functions",
+                "order": 1,
+                "documents": [
+                  {
+                    "id": "d78c46645e8f4450",
+                    "title": "Aggregate Functions",
+                    "slug": "functions/aggregate-functions",
+                    "file": "files/lattice/SQL/Functions/aggregate-functions.md",
+                    "order": 0
+                  },
+                  {
+                    "id": "69e8223c28a292ef",
+                    "title": "Date & Time Functions",
+                    "slug": "functions/date-and-time-functions",
+                    "file": "files/lattice/SQL/Functions/date-and-time-functions.md",
+                    "order": 1
+                  },
+                  {
+                    "id": "fa5ca7d57f733591",
+                    "title": "Logical & Conditional",
+                    "slug": "functions/logical-conditional",
+                    "file": "files/lattice/SQL/Functions/logical-conditional.md",
+                    "order": 2
+                  },
+                  {
+                    "id": "2ab6287272b10e5b",
+                    "title": "Numeric Functions",
+                    "slug": "functions/numeric-functions",
+                    "file": "files/lattice/SQL/Functions/numeric-functions.md",
+                    "order": 3
+                  },
+                  {
+                    "id": "6b3e39a018ac531e",
+                    "title": "String Functions",
+                    "slug": "functions/string-functions",
+                    "file": "files/lattice/SQL/Functions/string-functions.md",
+                    "order": 4
+                  },
+                  {
+                    "id": "9add633c6d41f6a8",
+                    "title": "Type Conversion Functions",
+                    "slug": "functions/type-conversion-functions",
+                    "file": "files/lattice/SQL/Functions/type-conversion-functions.md",
+                    "order": 5
+                  },
+                  {
+                    "id": "45797c2fca97b3a8",
+                    "title": "Window Functions",
+                    "slug": "functions/window-functions",
+                    "file": "files/lattice/SQL/Functions/window-functions.md",
+                    "order": 6
+                  }
+                ],
+                "children": []
+              },
+              {
+                "title": "Subordinate Concepts",
+                "slug": "subordinate-concepts",
+                "order": 2,
+                "documents": [
+                  {
+                    "id": "0ace81eb31e06d69",
+                    "title": "Common Table Expression (CTE)",
+                    "slug": "subordinate-concepts/common-table-expression",
+                    "file": "files/lattice/SQL/Subordinate Concepts/common-table-expression.md",
+                    "order": 0
+                  },
+                  {
+                    "id": "bf0908ce0f309574",
+                    "title": "Denomalization",
+                    "slug": "subordinate-concepts/denomalization",
+                    "file": "files/lattice/SQL/Subordinate Concepts/denomalization.md",
+                    "order": 1
+                  },
+                  {
+                    "id": "5e408953b197d44b",
+                    "title": "Error Handling",
+                    "slug": "subordinate-concepts/error-handling",
+                    "file": "files/lattice/SQL/Subordinate Concepts/error-handling.md",
+                    "order": 2
+                  },
+                  {
+                    "id": "78e6f3f84d0813f9",
+                    "title": "Execution Plans",
+                    "slug": "subordinate-concepts/execution-plans",
+                    "file": "files/lattice/SQL/Subordinate Concepts/execution-plans.md",
+                    "order": 3
+                  },
+                  {
+                    "id": "801fd73d5c100a5c",
+                    "title": "File Handling",
+                    "slug": "subordinate-concepts/file-handling",
+                    "file": "files/lattice/SQL/Subordinate Concepts/file-handling.md",
+                    "order": 4
+                  },
+                  {
+                    "id": "9b4cb3b0fbf73b35",
+                    "title": "MERGE Statement",
+                    "slug": "subordinate-concepts/merge-statement",
+                    "file": "files/lattice/SQL/Subordinate Concepts/merge-statement.md",
+                    "order": 5
+                  },
+                  {
+                    "id": "970d02a06ab52704",
+                    "title": "Normalization",
+                    "slug": "subordinate-concepts/normalization",
+                    "file": "files/lattice/SQL/Subordinate Concepts/normalization.md",
+                    "order": 6
+                  },
+                  {
+                    "id": "a739b35d0b1c0b11",
+                    "title": "Pivot and Unpivot",
+                    "slug": "subordinate-concepts/pivot-and-unpivot",
+                    "file": "files/lattice/SQL/Subordinate Concepts/pivot-and-unpivot.md",
+                    "order": 7
+                  },
+                  {
+                    "id": "1824942507cc5f4e",
+                    "title": "Query Optimization",
+                    "slug": "subordinate-concepts/query-optimization",
+                    "file": "files/lattice/SQL/Subordinate Concepts/query-optimization.md",
+                    "order": 8
+                  },
+                  {
+                    "id": "d9e72a27f423ffa6",
+                    "title": "Recursive CTE",
+                    "slug": "subordinate-concepts/recursive-cte",
+                    "file": "files/lattice/SQL/Subordinate Concepts/recursive-cte.md",
+                    "order": 9
+                  },
+                  {
+                    "id": "792f1551c22df7e0",
+                    "title": "Temporary Tables Table Variables",
+                    "slug": "subordinate-concepts/temporary-tables-table-variables",
+                    "file": "files/lattice/SQL/Subordinate Concepts/temporary-tables-table-variables.md",
+                    "order": 10
+                  },
+                  {
+                    "id": "bd66729b36515b1f",
+                    "title": "Transactions",
+                    "slug": "subordinate-concepts/transactions",
+                    "file": "files/lattice/SQL/Subordinate Concepts/transactions.md",
+                    "order": 11
+                  }
+                ],
+                "children": []
+              },
+              {
+                "title": "Theory",
+                "slug": "theory",
+                "order": 3,
+                "documents": [
+                  {
+                    "id": "2a00a00a1022a6a7",
+                    "title": "Acid",
+                    "slug": "theory/acid",
+                    "file": "files/lattice/SQL/Theory/acid.md",
+                    "order": 0
+                  },
+                  {
+                    "id": "7c013cebb3096195",
+                    "title": "Base",
+                    "slug": "theory/base",
+                    "file": "files/lattice/SQL/Theory/base.md",
+                    "order": 1
+                  },
+                  {
+                    "id": "9d418aab409183fb",
+                    "title": "Cap",
+                    "slug": "theory/cap",
+                    "file": "files/lattice/SQL/Theory/cap.md",
+                    "order": 2
+                  },
+                  {
+                    "id": "65b89a0cb7634acc",
+                    "title": "Relational vs. Non-Relational",
+                    "slug": "theory/relational-vs-non-relational",
+                    "file": "files/lattice/SQL/Theory/relational-vs-non-relational.md",
+                    "order": 3
+                  },
+                  {
+                    "id": "c21a224a42caa035",
+                    "title": "Schema vs. No-Schema",
+                    "slug": "theory/schema-vs-no-schema",
+                    "file": "files/lattice/SQL/Theory/schema-vs-no-schema.md",
+                    "order": 4
+                  }
+                ],
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "build": [
+      {
+        "id": "software-android-apps",
+        "title": "Android apps",
+        "buildType": "software",
+        "order": 0,
+        "menus": [
+          {
+            "id": "software-echo",
+            "buildType": "software",
+            "title": "Echo",
+            "slug": "echo",
+            "listed": true,
+            "order": 1,
+            "sections": [
+              {
+                "title": "Overview",
+                "slug": "overview",
+                "order": 0,
+                "documents": [
+                  {
+                    "id": "39ab1f7b-bf10-47ba-83b7-644e3a4ce515",
+                    "title": "Echo",
+                    "slug": "",
+                    "file": "files/managed/build/software/android-apps/echo/overview/01-overview.md",
+                    "order": 0
+                  }
+                ],
+                "children": []
+              },
+              {
+                "title": "Documentation",
+                "slug": "documentation",
+                "order": 1,
+                "documents": [
+                  {
+                    "id": "2840c65f-2813-4686-8e8a-b6a11549eca8",
+                    "title": "Tech stack",
+                    "slug": "documentation/tech-stack",
+                    "file": "files/managed/build/software/android-apps/echo/documentation/01-tech-stack.md",
+                    "order": 0
+                  },
+                  {
+                    "id": "47d980bf-218c-4699-aecb-2e3b32004d47",
+                    "title": "Setup and use",
+                    "slug": "documentation/setup-and-use",
+                    "file": "files/managed/build/software/android-apps/echo/documentation/02-setup-and-use.md",
+                    "order": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "title": "Legal information",
+                "publicApp": "echo",
+                "slug": "legal-information",
+                "order": 2,
+                "documents": [
+                  {
+                    "id": "a889885992f6e6ca",
+                    "title": "Connections and permissions",
+                    "publicPath": "/pages/echo/connections-and-permissions",
+                    "slug": "legal-information/connections-and-permissions",
+                    "file": "files/logbook/Echo/docs/connections-and-permissions.md",
+                    "order": 0
+                  },
+                  {
+                    "id": "6cfeb84eb9046676",
+                    "title": "Privacy Policy",
+                    "publicPath": "/pages/echo/privacy-policy",
+                    "slug": "legal-information/privacy-policy",
+                    "file": "files/logbook/Echo/docs/privacy-policy.md",
+                    "order": 1
+                  },
+                  {
+                    "id": "153968e6d57acbeb",
+                    "title": "What is Echo?",
+                    "publicPath": "/pages/echo/what-is-echo",
+                    "slug": "legal-information/what-is-echo",
+                    "file": "files/logbook/Echo/docs/what-is-echo.md",
+                    "order": 2
+                  },
+                  {
+                    "id": "9b161cfc9a97706f",
+                    "title": "Echo",
+                    "publicPath": "/pages/echo/home",
+                    "slug": "legal-information/home",
+                    "file": "files/logbook/Echo/home.md",
+                    "order": 3
+                  },
+                  {
+                    "id": "95a1b1f467e54d44",
+                    "title": "How Echo works",
+                    "publicPath": "/pages/echo/how-echo-works",
+                    "slug": "legal-information/how-echo-works",
+                    "file": "files/logbook/Echo/docs/how-echo-works.md",
+                    "order": 4
+                  },
+                  {
+                    "id": "f2750f93ea3a64d1",
+                    "title": "Terms and Conditions",
+                    "publicPath": "/pages/echo/terms-and-conditions",
+                    "slug": "legal-information/terms-and-conditions",
+                    "file": "files/logbook/Echo/docs/terms-and-conditions.md",
+                    "order": 5
+                  },
+                  {
+                    "id": "c54933aa00fa9c1a",
+                    "title": "Troubleshooting",
+                    "publicPath": "/pages/echo/troubleshooting",
+                    "slug": "legal-information/troubleshooting",
+                    "file": "files/logbook/Echo/docs/troubleshooting.md",
+                    "order": 6
+                  },
+                  {
+                    "id": "9e4d85e0cb60d4dd",
+                    "title": "How to use Echo",
+                    "publicPath": "/pages/echo/how-to-use",
+                    "slug": "legal-information/how-to-use",
+                    "file": "files/logbook/Echo/docs/how-to-use.md",
+                    "order": 7
+                  },
+                  {
+                    "id": "f92bb1cc10dbf38c",
+                    "title": "Permissions and Data Practices",
+                    "publicPath": "/pages/echo/permissions-and-data",
+                    "slug": "legal-information/permissions-and-data",
+                    "file": "files/logbook/Echo/docs/permissions-and-data.md",
+                    "order": 8
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "software-tally",
+            "buildType": "software",
+            "title": "Tally",
+            "slug": "tally",
+            "listed": true,
+            "order": 5,
+            "sections": [
+              {
+                "title": "Overview",
+                "slug": "overview",
+                "order": 0,
+                "documents": [
+                  {
+                    "id": "6f178dc1-b44c-4bd2-bc6d-e504c4a708dd",
+                    "title": "Tally",
+                    "slug": "",
+                    "file": "files/managed/build/software/android-apps/tally/overview/01-overview.md",
+                    "order": 0
+                  }
+                ],
+                "children": []
+              },
+              {
+                "title": "Documentation",
+                "slug": "documentation",
+                "order": 1,
+                "documents": [
+                  {
+                    "id": "b9dbd20f-1a8e-4bf6-9c2c-4068330aa9f4",
+                    "title": "Tech stack",
+                    "slug": "documentation/tech-stack",
+                    "file": "files/managed/build/software/android-apps/tally/documentation/01-tech-stack.md",
+                    "order": 0
+                  },
+                  {
+                    "id": "136fae6b-4a39-4bb2-a1b4-eb77f7803ff4",
+                    "title": "Local development",
+                    "slug": "documentation/local-development",
+                    "file": "files/managed/build/software/android-apps/tally/documentation/02-local-development.md",
+                    "order": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "software-web-apps",
+        "title": "Web apps",
+        "buildType": "software",
+        "order": 1,
+        "menus": [
+          {
+            "id": "software-gpa-calculator",
+            "buildType": "software",
+            "title": "GPA Calculator",
+            "slug": "gpa-calculator",
+            "listed": true,
+            "order": 2,
+            "sections": [
+              {
+                "title": "Overview",
+                "slug": "overview",
+                "order": 0,
+                "documents": [
+                  {
+                    "id": "a60001d0-6e85-47f4-9c36-250af19b4f96",
+                    "title": "GPA Calculator",
+                    "slug": "",
+                    "file": "files/managed/build/software/web-apps/gpa-calculator/overview/01-overview.md",
+                    "order": 0
+                  }
+                ],
+                "children": []
+              },
+              {
+                "title": "Documentation",
+                "slug": "documentation",
+                "order": 1,
+                "documents": [
+                  {
+                    "id": "319da3da-324e-4dd5-ac6c-f51cd1e66ca9",
+                    "title": "Tech stack",
+                    "slug": "documentation/tech-stack",
+                    "file": "files/managed/build/software/web-apps/gpa-calculator/documentation/01-tech-stack.md",
+                    "order": 0
+                  },
+                  {
+                    "id": "31b783bf-424a-4bc0-94f4-e083e0973f61",
+                    "title": "Local development",
+                    "slug": "documentation/local-development",
+                    "file": "files/managed/build/software/web-apps/gpa-calculator/documentation/02-local-development.md",
+                    "order": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "software-zero",
+            "buildType": "software",
+            "title": "Zero",
+            "slug": "zero",
+            "listed": true,
+            "order": 9,
+            "sections": [
+              {
+                "title": "Overview",
+                "slug": "overview",
+                "order": 0,
+                "documents": [
+                  {
+                    "id": "9934a59d-43f2-4ce2-967c-f65d3f267b12",
+                    "title": "Zero",
+                    "slug": "",
+                    "file": "files/managed/build/software/web-apps/zero/overview/01-overview.md",
+                    "order": 0
+                  }
+                ],
+                "children": []
+              },
+              {
+                "title": "Documentation",
+                "slug": "documentation",
+                "order": 1,
+                "documents": [
+                  {
+                    "id": "17259daa-4aca-433b-b4c2-96065d86fd18",
+                    "title": "Tech stack",
+                    "slug": "documentation/tech-stack",
+                    "file": "files/managed/build/software/web-apps/zero/documentation/01-tech-stack.md",
+                    "order": 0
+                  },
+                  {
+                    "id": "3551e719-4cf9-4ab4-87a9-b4c927b5f13c",
+                    "title": "Local development",
+                    "slug": "documentation/local-development",
+                    "file": "files/managed/build/software/web-apps/zero/documentation/02-local-development.md",
+                    "order": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "software-scripts-tools",
+        "title": "Scripts & tools",
+        "buildType": "software",
+        "order": 2,
+        "menus": [
+          {
+            "id": "software-google-play-review-analyzer",
+            "buildType": "software",
+            "title": "Google Play Review Analyzer",
+            "slug": "google-play-review-analyzer",
+            "listed": true,
+            "order": 1,
+            "sections": [
+              {
+                "title": "Overview",
+                "slug": "overview",
+                "order": 0,
+                "documents": [
+                  {
+                    "id": "ddd02e2f-407d-4ec0-af79-82440d966afc",
+                    "title": "Google Play Review Analyzer",
+                    "slug": "",
+                    "file": "files/managed/build/software/scripts-tools/google-play-review-analyzer/overview/01-overview.md",
+                    "order": 0
+                  }
+                ],
+                "children": []
+              },
+              {
+                "title": "Documentation",
+                "slug": "documentation",
+                "order": 1,
+                "documents": [
+                  {
+                    "id": "29a891f0-5f31-4e33-87a8-79c38740ff62",
+                    "title": "Tech stack",
+                    "slug": "documentation/tech-stack",
+                    "file": "files/managed/build/software/scripts-tools/google-play-review-analyzer/documentation/01-tech-stack.md",
+                    "order": 0
+                  },
+                  {
+                    "id": "9e55988d-3126-44b1-89cd-d7bef7e3c2d9",
+                    "title": "Local development",
+                    "slug": "documentation/local-development",
+                    "file": "files/managed/build/software/scripts-tools/google-play-review-analyzer/documentation/02-local-development.md",
+                    "order": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "software-yoink-routines",
+            "buildType": "software",
+            "title": "YOINK Routines",
+            "slug": "yoink-routines",
+            "listed": true,
+            "order": 8,
+            "sections": [
+              {
+                "title": "Overview",
+                "slug": "overview",
+                "order": 0,
+                "documents": [
+                  {
+                    "id": "cbd31d8c-ad31-424d-bc1f-2c7418694f4f",
+                    "title": "YOINK Routines",
+                    "slug": "",
+                    "file": "files/managed/build/software/scripts-tools/yoink-routines/overview/01-overview.md",
+                    "order": 0
+                  }
+                ],
+                "children": []
+              },
+              {
+                "title": "Documentation",
+                "slug": "documentation",
+                "order": 1,
+                "documents": [
+                  {
+                    "id": "87eae810-6e04-42aa-9d4c-975b19b49933",
+                    "title": "Tech stack",
+                    "slug": "documentation/tech-stack",
+                    "file": "files/managed/build/software/scripts-tools/yoink-routines/documentation/01-tech-stack.md",
+                    "order": 0
+                  },
+                  {
+                    "id": "d7c738b2-4e78-4623-97c4-5d3314e0a2f2",
+                    "title": "Local development",
+                    "slug": "documentation/local-development",
+                    "file": "files/managed/build/software/scripts-tools/yoink-routines/documentation/02-local-development.md",
+                    "order": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "software-extensions",
+        "title": "Extensions",
+        "buildType": "software",
+        "order": 3,
+        "menus": [
+          {
+            "id": "software-inset",
+            "buildType": "software",
+            "title": "Inset",
+            "slug": "inset",
+            "listed": true,
+            "order": 3,
+            "sections": [
+              {
+                "title": "Overview",
+                "slug": "overview",
+                "order": 0,
+                "documents": [
+                  {
+                    "id": "d753bb93-39b3-4f65-ae15-0a387d25f72b",
+                    "title": "Inset",
+                    "slug": "",
+                    "file": "files/managed/build/software/extensions/inset/overview/01-overview.md",
+                    "order": 0
+                  }
+                ],
+                "children": []
+              },
+              {
+                "title": "Documentation",
+                "slug": "documentation",
+                "order": 1,
+                "documents": [
+                  {
+                    "id": "87d9c3da-1042-48b6-bdef-a8dbd4ae8daa",
+                    "title": "Tech stack",
+                    "slug": "documentation/tech-stack",
+                    "file": "files/managed/build/software/extensions/inset/documentation/01-tech-stack.md",
+                    "order": 0
+                  },
+                  {
+                    "id": "9dcba16e-0c66-4ba4-b5a1-fc57f3df3605",
+                    "title": "Local development",
+                    "slug": "documentation/local-development",
+                    "file": "files/managed/build/software/extensions/inset/documentation/02-local-development.md",
+                    "order": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "software-forked-projects",
+        "title": "Forked projects",
+        "buildType": "software",
+        "order": 4,
+        "menus": [
+          {
+            "id": "software-affine-me",
+            "buildType": "software",
+            "title": "AFFiNE.me",
+            "slug": "affine-me",
+            "listed": true,
+            "order": 0,
+            "sections": [
+              {
+                "title": "Overview",
+                "slug": "overview",
+                "order": 0,
+                "documents": [
+                  {
+                    "id": "d615f22b-98cc-41b9-89eb-1ed3a1511260",
+                    "title": "AFFiNE.me",
+                    "slug": "",
+                    "file": "files/managed/build/software/forked-projects/affine-me/overview/01-overview.md",
+                    "order": 0
+                  }
+                ],
+                "children": []
+              },
+              {
+                "title": "Documentation",
+                "slug": "documentation",
+                "order": 1,
+                "documents": [
+                  {
+                    "id": "198a65f7-8b72-438d-b130-721aff1e76ae",
+                    "title": "Tech stack",
+                    "slug": "documentation/tech-stack",
+                    "file": "files/managed/build/software/forked-projects/affine-me/documentation/01-tech-stack.md",
+                    "order": 0
+                  },
+                  {
+                    "id": "994263d9-a58d-42ec-adfc-4e09bbdf9d65",
+                    "title": "Local development",
+                    "slug": "documentation/local-development",
+                    "file": "files/managed/build/software/forked-projects/affine-me/documentation/02-local-development.md",
+                    "order": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "software-templates",
+        "title": "Templates",
+        "buildType": "software",
+        "order": 5,
+        "menus": [
+          {
+            "id": "software-starter-kits",
+            "buildType": "software",
+            "title": "Starter Kits",
+            "slug": "starter-kits",
+            "listed": true,
+            "order": 4,
+            "sections": [
+              {
+                "title": "Overview",
+                "slug": "overview",
+                "order": 0,
+                "documents": [
+                  {
+                    "id": "e6e76b5f-0dbc-4c4b-9b17-03e4155e998f",
+                    "title": "Starter Kits",
+                    "slug": "",
+                    "file": "files/managed/build/software/templates/starter-kits/overview/01-overview.md",
+                    "order": 0
+                  }
+                ],
+                "children": []
+              },
+              {
+                "title": "Documentation",
+                "slug": "documentation",
+                "order": 1,
+                "documents": [
+                  {
+                    "id": "ef4840bd-524c-4c1a-988f-dcd6d869de22",
+                    "title": "Tech stack",
+                    "slug": "documentation/tech-stack",
+                    "file": "files/managed/build/software/templates/starter-kits/documentation/01-tech-stack.md",
+                    "order": 0
+                  },
+                  {
+                    "id": "a39e4326-ef9b-4832-96c5-f384ea045f7b",
+                    "title": "Local development",
+                    "slug": "documentation/local-development",
+                    "file": "files/managed/build/software/templates/starter-kits/documentation/02-local-development.md",
+                    "order": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "software-portfolio-doodles",
+            "buildType": "software",
+            "title": "Portfolio Doodles",
+            "slug": "portfolio-doodles",
+            "listed": true,
+            "order": 6,
+            "sections": [
+              {
+                "title": "Overview",
+                "slug": "overview",
+                "order": 0,
+                "documents": [
+                  {
+                    "id": "283ca13e-cca3-46e0-b31b-fdcbf1d1350d",
+                    "title": "Portfolio Doodles",
+                    "slug": "",
+                    "file": "files/managed/build/software/templates/portfolio-doodles/overview/01-overview.md",
+                    "order": 0
+                  }
+                ],
+                "children": []
+              },
+              {
+                "title": "Documentation",
+                "slug": "documentation",
+                "order": 1,
+                "documents": [
+                  {
+                    "id": "d56e25d6-7756-4066-9b85-04be85312568",
+                    "title": "Tech stack",
+                    "slug": "documentation/tech-stack",
+                    "file": "files/managed/build/software/templates/portfolio-doodles/documentation/01-tech-stack.md",
+                    "order": 0
+                  },
+                  {
+                    "id": "368aacea-47fd-413a-b5fd-baac7868e4d6",
+                    "title": "Local development",
+                    "slug": "documentation/local-development",
+                    "file": "files/managed/build/software/templates/portfolio-doodles/documentation/02-local-development.md",
+                    "order": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "software-portfolio-monograph",
+            "buildType": "software",
+            "title": "Portfolio Monograph",
+            "slug": "portfolio-monograph",
+            "listed": true,
+            "order": 7,
+            "sections": [
+              {
+                "title": "Overview",
+                "slug": "overview",
+                "order": 0,
+                "documents": [
+                  {
+                    "id": "e5a9dba5-ced9-4d05-ab7f-3a24aa3e9c71",
+                    "title": "Portfolio Monograph",
+                    "slug": "",
+                    "file": "files/managed/build/software/templates/portfolio-monograph/overview/01-overview.md",
+                    "order": 0
+                  }
+                ],
+                "children": []
+              },
+              {
+                "title": "Documentation",
+                "slug": "documentation",
+                "order": 1,
+                "documents": [
+                  {
+                    "id": "8086885a-e574-4914-aba5-32e31cba7f90",
+                    "title": "Tech stack",
+                    "slug": "documentation/tech-stack",
+                    "file": "files/managed/build/software/templates/portfolio-monograph/documentation/01-tech-stack.md",
+                    "order": 0
+                  },
+                  {
+                    "id": "ab14740f-ca2f-4c8d-88cd-be6a35381d8e",
+                    "title": "Local development",
+                    "slug": "documentation/local-development",
+                    "file": "files/managed/build/software/templates/portfolio-monograph/documentation/02-local-development.md",
+                    "order": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "build-sample-projects",
+        "title": "Sample projects",
+        "order": 20,
+        "menus": [
+          {
+            "id": "sample-desk-monitor",
+            "buildType": "hardware",
+            "title": "Desk environment monitor",
+            "slug": "desk-environment-monitor",
+            "listed": true,
+            "order": 0,
+            "sections": [
+              {
+                "title": "Overview",
+                "slug": "overview",
+                "order": 0,
+                "documents": [
+                  {
+                    "id": "1b776530-48ee-4d6d-af30-a32ddf6605f8",
+                    "title": "Desk environment monitor",
+                    "slug": "",
+                    "file": "files/managed/build/hardware/sample-projects/desk-environment-monitor/overview/01-overview.md",
+                    "order": 0
+                  }
+                ],
+                "children": []
+              },
+              {
+                "title": "Project notes",
+                "slug": "project-notes",
+                "order": 1,
+                "documents": [
+                  {
+                    "id": "cdfdb45c-517b-4fb9-9c88-68c5e39a6358",
+                    "title": "Parts and interface plan",
+                    "slug": "project-notes/parts-and-interface-plan",
+                    "file": "files/managed/build/hardware/sample-projects/desk-environment-monitor/project-notes/01-parts-and-interface-plan.md",
+                    "order": 0
+                  },
+                  {
+                    "id": "74443082-9aae-4f2f-ae09-91f8db8557e1",
+                    "title": "Build log — first prototype",
+                    "slug": "project-notes/first-prototype",
+                    "file": "files/managed/build/hardware/sample-projects/desk-environment-monitor/project-notes/02-first-prototype.md",
+                    "order": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "pages": [
+      {
+        "title": "Menus",
+        "order": 0,
+        "menus": []
+      }
+    ]
+  }
+}

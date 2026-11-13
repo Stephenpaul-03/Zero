@@ -1,0 +1,60 @@
+# JavaScript Overview
+
+- **The Core**
+	- Variables
+	- Data Types
+	- Operators
+	- Control Flow
+	- Functions
+	- Comments
+	- Scope
+	- Error Handling
+- **Data Structures**
+	- Arrays
+	- Objects
+	- JSON
+	- Sets & Maps (ES6)
+- **Subordinate Concepts**
+	- Hoisting
+	- Callbacks
+	- Modules
+	- Events
+	- Storage Types
+	- Closures
+	- set variants
+- Advanced Concepts
+	- **Asynchronous JavaScript**
+		- Callbacks
+		- Promises
+		- async/await
+		- Fetch API and HTTP
+		- Events
+	- **DOM Manipulation**
+		- Introduction
+		- Selecting Elements
+		- Manipulating Elements
+		- Creating/Removing Elements
+		- Event Handling
+		- Forms and Inputs
+		- DOM traversal
+	- **ES6**
+		- Destructuring
+		- Spread/rest
+		- Optional chaining (`?.`)
+		- Nullish coalescing (`??`)
+		- Arrow functions & implicit returns
+		- Default parameters
+		- Template literals
+		- Dynamic imports
+	- Object Oriented Programming
+		- Constructor Functions
+		- Prototypes
+		- Classes and Inheritance
+		- Encapsulation and Abstraction
+	- Functional Programming Patterns
+		- Pure Functions
+		- Immutability
+		- Composition
+	- Memory and Performance Basics
+		- Garbage Collection
+	

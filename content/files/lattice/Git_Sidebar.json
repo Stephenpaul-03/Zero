@@ -1,0 +1,43 @@
+{
+  "home": {
+    "label": "Overview",
+    "path": "/"
+  },
+  "categories": [
+    {
+      "title": "Getting Started",
+      "icon": "rocket",
+      "topics": {
+        "Introduction": "/getting-started/introduction",
+        "Working Model": "/getting-started/working-model",
+        "Commands": "/getting-started/commands"
+      }
+    },
+    {
+      "title": "Core Concepts",
+      "icon": "layers",
+      "topics": {
+        "Branching": "/core-concepts/branching",
+        "Committing": "/core-concepts/committing",
+        "Merging & Conflict Resolution": "/core-concepts/merging-conflict-resolution",
+        "Undoing Changes": "/core-concepts/undoing-changes",
+        "Tracking": "/core-concepts/tracking"
+      }
+    },
+    {
+      "title": "History & Collaboration",
+      "icon": "git-branch",
+      "topics": {
+        "Rebase": "/history-collaboration/rebase",
+        "Bisect": "/history-collaboration/bisect",
+        "Cherry Pick": "/history-collaboration/cherry-pick",
+        "Stashing": "/history-collaboration/stashing",
+        "Conventional Commits": "/history-collaboration/conventional-commits",
+        "GitHub Workflow": "/history-collaboration/github-workflow",
+        "Gitignore": "/history-collaboration/gitignore",
+        "Blame": "/history-collaboration/blame",
+        "Hooks": "/history-collaboration/hooks"
+      }
+    }
+  ]
+}
